@@ -1,0 +1,23 @@
+$GetCurrent
+$WINDOWS.~BT
+$Windows.~WS
+$Recycle.Bin
+$SysReset
+AppData
+Arquivos de Programas
+Config.Msi
+Documents and Settings
+Intel
+Microsoft
+MSOCache
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Temp
+tmp
+Users
+Windows

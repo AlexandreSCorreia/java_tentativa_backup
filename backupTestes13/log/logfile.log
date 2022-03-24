@@ -1,0 +1,1265 @@
+2020-03-15 13:12:28,935  INFO - Criando diretorio...
+2020-03-15 13:12:30,315  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-12-22
+2020-03-15 13:12:30,330  INFO - Procurando usuários...
+2020-03-15 13:12:30,335  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Administrador
+2020-03-15 13:12:30,337  INFO - Perfil de usuário está na lista de perfis que não seram feito backup All Users
+2020-03-15 13:12:30,339  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:12:30,398  INFO - Pasta valida: AndroidStudioProjects
+2020-03-15 13:12:50,834  INFO - Pasta valida: Documents
+2020-03-15 13:12:50,905  INFO - Pasta valida: Downloads
+2020-03-15 13:12:50,914  INFO - Pasta valida: DownloadsBRUNA-VAIO-BACKUP
+2020-03-15 13:12:50,926  INFO - Pasta valida: dwhelper
+2020-03-15 13:12:50,927  INFO - Pasta valida: eclipse
+2020-03-15 13:12:54,276  INFO - Pasta valida: eclipse-workspace
+2020-03-15 13:12:56,274  INFO - Pasta valida: Favorites
+2020-03-15 13:12:56,325  INFO - Pasta valida: Meus Documentos
+2020-03-15 13:12:56,326  INFO - Pasta valida: Music
+2020-03-15 13:12:57,776  INFO - Pasta valida: Videos
+2020-03-15 13:12:57,826  INFO - Tamanho da pasta 706,1 MB
+2020-03-15 13:12:57,828  INFO - Usuário encontrado: BRUNADELIMAOLIVEIRA
+2020-03-15 13:12:57,830  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default
+2020-03-15 13:12:57,831  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default User
+2020-03-15 13:12:57,833  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:12:57,835  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,837  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:12:57,839  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,841  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:12:57,844  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,846  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:12:57,849  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,851  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:12:57,854  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,856  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Public
+2020-03-15 13:12:57,859  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:12:57,862  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,866  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:12:57,869  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,872  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:12:57,874  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,877  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:12:57,880  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,882  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:12:57,889  INFO - Tamanho da pasta 0 B
+2020-03-15 13:12:57,894  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Todos os Usuários
+2020-03-15 13:12:57,897  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Usuário Padrão
+2020-03-15 13:12:57,900  INFO - Inicializando backup
+2020-03-15 13:12:57,903  INFO - BRUNADELIMAOLIVEIRA
+2020-03-15 13:12:57,906  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-12-22\BRUNADELIMAOLIVEIRA
+2020-03-15 13:12:57,938  INFO - Copiando pastas...
+2020-03-15 13:12:57,942  INFO - Pasta valida: AndroidStudioProjects
+2020-03-15 13:18:19,004  INFO - Criando diretorio...
+2020-03-15 13:18:19,779  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-18-02
+2020-03-15 13:18:19,800  INFO - 
+2020-03-15 13:18:19,801  INFO - ============================
+2020-03-15 13:18:19,803  INFO - Procurando usuários...
+2020-03-15 13:18:19,804  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Administrador
+2020-03-15 13:18:19,806  INFO - Perfil de usuário está na lista de perfis que não seram feito backup All Users
+2020-03-15 13:18:19,808  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:18:49,858  INFO - Tamanho da pasta 706,1 MB
+2020-03-15 13:18:49,860  INFO - Usuário encontrado: BRUNADELIMAOLIVEIRA
+2020-03-15 13:18:49,861  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default
+2020-03-15 13:18:49,862  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default User
+2020-03-15 13:18:49,864  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:18:49,865  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,867  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:18:49,869  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,870  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:18:49,872  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,873  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:18:49,875  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,877  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:18:49,878  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,880  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Public
+2020-03-15 13:18:49,882  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:18:49,884  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,886  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:18:49,888  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,890  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:18:49,892  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,894  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:18:49,896  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,898  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:18:49,900  INFO - Tamanho da pasta 0 B
+2020-03-15 13:18:49,902  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Todos os Usuários
+2020-03-15 13:18:49,905  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Usuário Padrão
+2020-03-15 13:18:49,907  INFO - Inicializando backup
+2020-03-15 13:18:49,909  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-18-02\BRUNADELIMAOLIVEIRA
+2020-03-15 13:18:49,928  INFO - Copiando pastas...
+2020-03-15 13:19:53,453  INFO - Criando diretorio...
+2020-03-15 13:19:54,616  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-19-43
+2020-03-15 13:19:54,631  INFO - 
+2020-03-15 13:19:54,633  INFO - ===================================================================
+2020-03-15 13:19:54,634  INFO - Procurando usuários...
+2020-03-15 13:19:54,638  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Administrador
+2020-03-15 13:19:54,640  INFO - ===================================================================
+2020-03-15 13:19:54,641  INFO - Perfil de usuário está na lista de perfis que não seram feito backup All Users
+2020-03-15 13:19:54,644  INFO - ===================================================================
+2020-03-15 13:19:54,646  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:20:13,683  INFO - Tamanho da pasta 706,1 MB
+2020-03-15 13:20:13,686  INFO - Usuário encontrado: BRUNADELIMAOLIVEIRA
+2020-03-15 13:20:13,688  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default
+2020-03-15 13:20:13,689  INFO - ===================================================================
+2020-03-15 13:20:13,691  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default User
+2020-03-15 13:20:13,692  INFO - ===================================================================
+2020-03-15 13:20:13,693  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:20:13,695  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,697  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:20:13,699  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,702  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:20:13,705  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,708  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:20:13,710  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,713  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:20:13,716  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,718  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Public
+2020-03-15 13:20:13,722  INFO - ===================================================================
+2020-03-15 13:20:13,724  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:20:13,726  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,729  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:20:13,731  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,734  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:20:13,735  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,738  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:20:13,746  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,748  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:20:13,751  INFO - Tamanho da pasta 0 B
+2020-03-15 13:20:13,753  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Todos os Usuários
+2020-03-15 13:20:13,756  INFO - ===================================================================
+2020-03-15 13:20:13,758  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Usuário Padrão
+2020-03-15 13:20:13,762  INFO - ===================================================================
+2020-03-15 13:20:13,766  INFO - Inicializando backup
+2020-03-15 13:20:13,779  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-19-43\BRUNADELIMAOLIVEIRA
+2020-03-15 13:20:13,828  INFO - Copiando pastas...
+2020-03-15 13:36:01,531  INFO - Criando diretorio...
+2020-03-15 13:36:02,404  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-35-54
+2020-03-15 13:36:02,409  INFO - 
+2020-03-15 13:36:02,411  INFO - ================================================================
+2020-03-15 13:36:02,412  INFO - Procurando usuários...
+2020-03-15 13:36:02,451  INFO - ================================================================
+2020-03-15 13:36:02,454  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Administrador
+2020-03-15 13:36:02,456  INFO - ================================================================
+2020-03-15 13:36:02,457  INFO - ================================================================
+2020-03-15 13:36:02,459  INFO - Perfil de usuário está na lista de perfis que não seram feito backup All Users
+2020-03-15 13:36:02,462  INFO - ================================================================
+2020-03-15 13:36:02,465  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:36:50,775  INFO - Criando diretorio...
+2020-03-15 13:36:51,917  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-36-42
+2020-03-15 13:36:51,921  INFO - 
+2020-03-15 13:36:51,922  INFO - Procurando usuários...
+2020-03-15 13:36:51,940  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Administrador
+2020-03-15 13:36:51,941  INFO - 
+2020-03-15 13:36:51,943  INFO - Perfil de usuário está na lista de perfis que não seram feito backup All Users
+2020-03-15 13:36:51,945  INFO - 
+2020-03-15 13:36:51,946  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:37:09,853  INFO - Tamanho da pasta 706,1 MB
+2020-03-15 13:37:09,854  INFO - Usuário encontrado: BRUNADELIMAOLIVEIRA
+2020-03-15 13:37:09,856  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default
+2020-03-15 13:37:09,857  INFO - 
+2020-03-15 13:37:09,858  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default User
+2020-03-15 13:37:09,860  INFO - 
+2020-03-15 13:37:09,861  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:37:09,862  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,864  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:37:09,867  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,869  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:37:09,871  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,872  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:37:09,874  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,875  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:37:09,877  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,880  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Public
+2020-03-15 13:37:09,882  INFO - 
+2020-03-15 13:37:09,883  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:37:09,885  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,888  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:37:09,890  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,892  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:37:09,894  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,897  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:37:09,899  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,903  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:37:09,907  INFO - Tamanho da pasta 0 B
+2020-03-15 13:37:09,909  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Todos os Usuários
+2020-03-15 13:37:09,912  INFO - 
+2020-03-15 13:37:09,914  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Usuário Padrão
+2020-03-15 13:37:09,916  INFO - 
+2020-03-15 13:37:09,919  INFO - Inicializando backup
+2020-03-15 13:37:09,921  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-36-42\BRUNADELIMAOLIVEIRA
+2020-03-15 13:37:09,943  INFO - Copiando pastas...
+2020-03-15 13:39:19,551  INFO - Criando diretorio...
+2020-03-15 13:39:20,575  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-39-13
+2020-03-15 13:39:20,594  INFO - 
+2020-03-15 13:39:20,595  INFO - Procurando usuários...
+2020-03-15 13:39:20,610  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Administrador
+2020-03-15 13:39:20,613  INFO - Perfil de usuário está na lista de perfis que não seram feito backup All Users
+2020-03-15 13:39:20,617  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:39:39,613  INFO - Tamanho da pasta 706,2 MB
+2020-03-15 13:39:39,617  INFO - Usuário encontrado: BRUNADELIMAOLIVEIRA
+2020-03-15 13:39:39,624  INFO - 
+2020-03-15 13:39:39,626  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default
+2020-03-15 13:39:39,629  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default User
+2020-03-15 13:39:39,674  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:39:39,677  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,679  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:39:39,683  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,688  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:39:39,712  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,716  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:39:39,719  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,721  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:39:39,724  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,727  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Public
+2020-03-15 13:39:39,730  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:39:39,735  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,739  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:39:39,742  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,744  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:39:39,746  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,748  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:39:39,750  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,752  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:39:39,755  INFO - Tamanho da pasta 0 B
+2020-03-15 13:39:39,758  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Todos os Usuários
+2020-03-15 13:39:39,761  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Usuário Padrão
+2020-03-15 13:39:39,763  INFO - Inicializando backup
+2020-03-15 13:39:39,765  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-39-13\BRUNADELIMAOLIVEIRA
+2020-03-15 13:39:39,796  INFO - Copiando pastas...
+2020-03-15 13:43:34,327  INFO - Log inicializado.
+2020-03-15 13:43:34,330  INFO - =================
+2020-03-15 13:43:34,331  INFO - Criando diretorio...
+2020-03-15 13:43:35,522  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-43-27
+2020-03-15 13:43:35,541  INFO - 
+2020-03-15 13:43:35,542  INFO - Procurando usuários...
+2020-03-15 13:43:35,544  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Administrador
+2020-03-15 13:43:35,545  INFO - Perfil de usuário está na lista de perfis que não seram feito backup All Users
+2020-03-15 13:43:35,548  INFO - 
+2020-03-15 13:43:35,550  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:43:53,841  INFO - Tamanho: 706,2 MB
+2020-03-15 13:43:53,843  INFO - Usuário aprovado para fazer backup
+2020-03-15 13:43:53,844  INFO - 
+2020-03-15 13:43:53,845  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default
+2020-03-15 13:43:53,847  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Default User
+2020-03-15 13:43:53,848  INFO - 
+2020-03-15 13:43:53,850  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:43:53,861  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,867  INFO - 
+2020-03-15 13:43:53,868  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:43:53,870  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,872  INFO - 
+2020-03-15 13:43:53,873  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:43:53,875  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,876  INFO - 
+2020-03-15 13:43:53,878  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:43:53,879  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,881  INFO - 
+2020-03-15 13:43:53,883  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:43:53,885  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,886  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Public
+2020-03-15 13:43:53,888  INFO - 
+2020-03-15 13:43:53,890  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:43:53,891  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,895  INFO - 
+2020-03-15 13:43:53,897  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:43:53,903  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,907  INFO - 
+2020-03-15 13:43:53,908  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:43:53,910  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,912  INFO - 
+2020-03-15 13:43:53,914  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:43:53,916  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,918  INFO - 
+2020-03-15 13:43:53,921  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:43:53,923  INFO - Tamanho: 0 B
+2020-03-15 13:43:53,925  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Todos os Usuários
+2020-03-15 13:43:53,927  INFO - Perfil de usuário está na lista de perfis que não seram feito backup Usuário Padrão
+2020-03-15 13:43:53,929  INFO - Inicializando backup
+2020-03-15 13:43:53,932  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-43-27\BRUNADELIMAOLIVEIRA
+2020-03-15 13:43:53,935  INFO - Copiando pastas...
+2020-03-15 13:46:27,537  INFO - Log inicializado.
+2020-03-15 13:46:27,541  INFO - =================
+2020-03-15 13:46:27,542  INFO - Criando diretorio...
+2020-03-15 13:46:28,253  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-46-21
+2020-03-15 13:46:28,273  INFO - 
+2020-03-15 13:46:28,276  INFO - Procurando usuários...
+2020-03-15 13:46:28,278  INFO - =================
+2020-03-15 13:46:28,288  INFO - Administrador - está na lista de perfis que não seram feito backup.
+2020-03-15 13:46:28,289  INFO - All Users - está na lista de perfis que não seram feito backup.
+2020-03-15 13:46:28,291  INFO - 
+2020-03-15 13:46:28,293  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:46:47,603  INFO - Tamanho: 706,2 MB
+2020-03-15 13:46:47,606  INFO - Usuário aprovado para fazer backup.
+2020-03-15 13:46:47,607  INFO - 
+2020-03-15 13:46:47,608  INFO - Default - está na lista de perfis que não seram feito backup.
+2020-03-15 13:46:47,609  INFO - Default User - está na lista de perfis que não seram feito backup.
+2020-03-15 13:46:47,610  INFO - 
+2020-03-15 13:46:47,611  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:46:47,613  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,614  INFO - 
+2020-03-15 13:46:47,616  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:46:47,617  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,619  INFO - 
+2020-03-15 13:46:47,620  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:46:47,622  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,623  INFO - 
+2020-03-15 13:46:47,625  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:46:47,630  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,632  INFO - 
+2020-03-15 13:46:47,633  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:46:47,635  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,637  INFO - Public - está na lista de perfis que não seram feito backup.
+2020-03-15 13:46:47,638  INFO - 
+2020-03-15 13:46:47,640  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:46:47,642  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,643  INFO - 
+2020-03-15 13:46:47,645  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:46:47,647  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,648  INFO - 
+2020-03-15 13:46:47,650  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:46:47,652  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,654  INFO - 
+2020-03-15 13:46:47,656  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:46:47,658  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,659  INFO - 
+2020-03-15 13:46:47,661  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:46:47,671  INFO - Tamanho: 0 B
+2020-03-15 13:46:47,673  INFO - Todos os Usuários - está na lista de perfis que não seram feito backup.
+2020-03-15 13:46:47,675  INFO - Usuário Padrão - está na lista de perfis que não seram feito backup.
+2020-03-15 13:46:47,677  INFO - Inicializando backup
+2020-03-15 13:46:47,678  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-46-21\BRUNADELIMAOLIVEIRA
+2020-03-15 13:46:47,703  INFO - Copiando pastas...
+2020-03-15 13:48:03,298  INFO - Log inicializado.
+2020-03-15 13:48:03,301  INFO - =================
+2020-03-15 13:48:03,303  INFO - Criando diretorio...
+2020-03-15 13:48:04,287  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-47-53
+2020-03-15 13:48:04,292  INFO - 
+2020-03-15 13:48:04,294  INFO - Procurando usuários...
+2020-03-15 13:48:04,295  INFO - =================
+2020-03-15 13:48:04,314  INFO - Administrador - está na lista de perfis que o backup não será feito.
+2020-03-15 13:48:04,316  INFO - All Users - está na lista de perfis que o backup não será feito.
+2020-03-15 13:48:04,317  INFO - 
+2020-03-15 13:48:04,318  INFO - Verificando tamanho do diretorio: BRUNADELIMAOLIVEIRA
+2020-03-15 13:48:20,127  INFO - Tamanho: 706,2 MB
+2020-03-15 13:48:20,128  INFO - Usuário aprovado para fazer backup.
+2020-03-15 13:48:20,130  INFO - 
+2020-03-15 13:48:20,131  INFO - Default - está na lista de perfis que o backup não será feito.
+2020-03-15 13:48:20,133  INFO - Default User - está na lista de perfis que o backup não será feito.
+2020-03-15 13:48:20,135  INFO - 
+2020-03-15 13:48:20,137  INFO - Verificando tamanho do diretorio: MsDtsServer140
+2020-03-15 13:48:20,139  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,141  INFO - 
+2020-03-15 13:48:20,143  INFO - Verificando tamanho do diretorio: MSSQLFDLauncher
+2020-03-15 13:48:20,148  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,150  INFO - 
+2020-03-15 13:48:20,152  INFO - Verificando tamanho do diretorio: MSSQLLaunchpad
+2020-03-15 13:48:20,155  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,156  INFO - 
+2020-03-15 13:48:20,160  INFO - Verificando tamanho do diretorio: MSSQLSERVER
+2020-03-15 13:48:20,162  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,164  INFO - 
+2020-03-15 13:48:20,166  INFO - Verificando tamanho do diretorio: MSSQLServerOLAPService
+2020-03-15 13:48:20,168  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,170  INFO - Public - está na lista de perfis que o backup não será feito.
+2020-03-15 13:48:20,172  INFO - 
+2020-03-15 13:48:20,174  INFO - Verificando tamanho do diretorio: SQLTELEMETRY
+2020-03-15 13:48:20,175  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,177  INFO - 
+2020-03-15 13:48:20,178  INFO - Verificando tamanho do diretorio: SSASTELEMETRY
+2020-03-15 13:48:20,180  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,182  INFO - 
+2020-03-15 13:48:20,184  INFO - Verificando tamanho do diretorio: SSISScaleOutMaster140
+2020-03-15 13:48:20,185  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,187  INFO - 
+2020-03-15 13:48:20,189  INFO - Verificando tamanho do diretorio: SSISScaleOutWorker140
+2020-03-15 13:48:20,191  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,193  INFO - 
+2020-03-15 13:48:20,195  INFO - Verificando tamanho do diretorio: SSISTELEMETRY140
+2020-03-15 13:48:20,209  INFO - Tamanho: 0 B
+2020-03-15 13:48:20,211  INFO - Todos os Usuários - está na lista de perfis que o backup não será feito.
+2020-03-15 13:48:20,213  INFO - Usuário Padrão - está na lista de perfis que o backup não será feito.
+2020-03-15 13:48:20,216  INFO - Inicializando backup
+2020-03-15 13:48:20,238  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-47-53\BRUNADELIMAOLIVEIRA
+2020-03-15 13:48:20,240  INFO - Copiando pastas...
+2020-03-15 13:51:00,108  INFO - Log inicializado.
+2020-03-15 13:51:00,110  INFO - =================
+2020-03-15 13:51:00,112  INFO - Criando diretorio...
+2020-03-15 13:51:00,951  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-50-53
+2020-03-15 13:51:00,973  INFO - 
+2020-03-15 13:51:00,976  INFO - Procurando usuários...
+2020-03-15 13:51:00,979  INFO - =================
+2020-03-15 13:51:00,983  INFO - Administrador - está na lista de perfis que o backup não será feito.
+2020-03-15 13:51:00,985  INFO - 
+2020-03-15 13:51:00,988  INFO - All Users - está na lista de perfis que o backup não será feito.
+2020-03-15 13:51:00,990  INFO - 
+2020-03-15 13:51:00,992  INFO - Verificando usuário: BRUNADELIMAOLIVEIRA
+2020-03-15 13:51:22,709  INFO - Tamanho: 706,2 MB
+2020-03-15 13:51:22,710  INFO - Usuário aprovado para fazer backup.
+2020-03-15 13:51:22,711  INFO - 
+2020-03-15 13:51:22,713  INFO - Default - está na lista de perfis que o backup não será feito.
+2020-03-15 13:51:22,714  INFO - 
+2020-03-15 13:51:22,716  INFO - Default User - está na lista de perfis que o backup não será feito.
+2020-03-15 13:51:22,717  INFO - 
+2020-03-15 13:51:22,718  INFO - Verificando usuário: MsDtsServer140
+2020-03-15 13:51:22,720  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,721  INFO - Verificando usuário: MSSQLFDLauncher
+2020-03-15 13:51:22,723  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,724  INFO - Verificando usuário: MSSQLLaunchpad
+2020-03-15 13:51:22,726  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,728  INFO - Verificando usuário: MSSQLSERVER
+2020-03-15 13:51:22,729  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,731  INFO - Verificando usuário: MSSQLServerOLAPService
+2020-03-15 13:51:22,733  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,735  INFO - Public - está na lista de perfis que o backup não será feito.
+2020-03-15 13:51:22,736  INFO - 
+2020-03-15 13:51:22,738  INFO - Verificando usuário: SQLTELEMETRY
+2020-03-15 13:51:22,740  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,742  INFO - Verificando usuário: SSASTELEMETRY
+2020-03-15 13:51:22,744  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,746  INFO - Verificando usuário: SSISScaleOutMaster140
+2020-03-15 13:51:22,748  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,765  INFO - Verificando usuário: SSISScaleOutWorker140
+2020-03-15 13:51:22,768  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,771  INFO - Verificando usuário: SSISTELEMETRY140
+2020-03-15 13:51:22,773  INFO - Tamanho: 0 B
+2020-03-15 13:51:22,774  INFO - Todos os Usuários - está na lista de perfis que o backup não será feito.
+2020-03-15 13:51:22,776  INFO - 
+2020-03-15 13:51:22,778  INFO - Usuário Padrão - está na lista de perfis que o backup não será feito.
+2020-03-15 13:51:22,781  INFO - 
+2020-03-15 13:51:22,783  INFO - Inicializando backup
+2020-03-15 13:51:22,824  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-50-53\BRUNADELIMAOLIVEIRA
+2020-03-15 13:51:22,826  INFO - Copiando pastas...
+2020-03-15 13:51:59,206  INFO - Log inicializado.
+2020-03-15 13:51:59,209  INFO - =================
+2020-03-15 13:51:59,211  INFO - Criando diretorio...
+2020-03-15 13:52:00,088  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-51-53
+2020-03-15 13:52:00,106  INFO - 
+2020-03-15 13:52:00,108  INFO - Procurando usuários...
+2020-03-15 13:52:00,109  INFO - =================
+2020-03-15 13:52:00,110  INFO - Administrador - está na lista de perfis que o backup não será feito.
+2020-03-15 13:52:00,112  INFO - All Users - está na lista de perfis que o backup não será feito.
+2020-03-15 13:52:00,114  INFO - Verificando usuário: BRUNADELIMAOLIVEIRA
+2020-03-15 13:52:15,470  INFO - Tamanho: 706,2 MB
+2020-03-15 13:52:15,472  INFO - Usuário aprovado para fazer backup.
+2020-03-15 13:52:15,473  INFO - 
+2020-03-15 13:52:15,475  INFO - Default - está na lista de perfis que o backup não será feito.
+2020-03-15 13:52:15,477  INFO - Default User - está na lista de perfis que o backup não será feito.
+2020-03-15 13:52:15,479  INFO - Verificando usuário: MsDtsServer140
+2020-03-15 13:52:15,480  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,481  INFO - Verificando usuário: MSSQLFDLauncher
+2020-03-15 13:52:15,482  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,484  INFO - Verificando usuário: MSSQLLaunchpad
+2020-03-15 13:52:15,486  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,488  INFO - Verificando usuário: MSSQLSERVER
+2020-03-15 13:52:15,490  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,491  INFO - Verificando usuário: MSSQLServerOLAPService
+2020-03-15 13:52:15,492  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,494  INFO - Public - está na lista de perfis que o backup não será feito.
+2020-03-15 13:52:15,496  INFO - Verificando usuário: SQLTELEMETRY
+2020-03-15 13:52:15,511  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,513  INFO - Verificando usuário: SSASTELEMETRY
+2020-03-15 13:52:15,514  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,516  INFO - Verificando usuário: SSISScaleOutMaster140
+2020-03-15 13:52:15,518  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,520  INFO - Verificando usuário: SSISScaleOutWorker140
+2020-03-15 13:52:15,522  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,523  INFO - Verificando usuário: SSISTELEMETRY140
+2020-03-15 13:52:15,525  INFO - Tamanho: 0 B
+2020-03-15 13:52:15,528  INFO - Todos os Usuários - está na lista de perfis que o backup não será feito.
+2020-03-15 13:52:15,531  INFO - Usuário Padrão - está na lista de perfis que o backup não será feito.
+2020-03-15 13:52:15,533  INFO - Inicializando backup
+2020-03-15 13:52:15,536  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-51-53\BRUNADELIMAOLIVEIRA
+2020-03-15 13:52:15,539  INFO - Copiando pastas...
+2020-03-15 13:53:02,180  INFO - Log inicializado.
+2020-03-15 13:53:02,183  INFO - =================
+2020-03-15 13:53:02,184  INFO - Criando diretorio...
+2020-03-15 13:53:09,702  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-52-56
+2020-03-15 13:53:09,719  INFO - 
+2020-03-15 13:53:09,721  INFO - Procurando usuários...
+2020-03-15 13:53:09,727  INFO - =================
+2020-03-15 13:53:09,731  INFO - Administrador - está na lista de perfis que o backup não será feito.
+2020-03-15 13:53:09,733  INFO - All Users - está na lista de perfis que o backup não será feito.
+2020-03-15 13:53:09,734  INFO - Verificando usuário: BRUNADELIMAOLIVEIRA
+2020-03-15 13:53:24,481  INFO - Tamanho: 706,3 MB
+2020-03-15 13:53:24,483  INFO - Usuário aprovado para fazer backup.
+2020-03-15 13:53:24,484  INFO - Default - está na lista de perfis que o backup não será feito.
+2020-03-15 13:53:24,486  INFO - Default User - está na lista de perfis que o backup não será feito.
+2020-03-15 13:53:24,487  INFO - Verificando usuário: MsDtsServer140
+2020-03-15 13:53:24,488  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,490  INFO - Verificando usuário: MSSQLFDLauncher
+2020-03-15 13:53:24,491  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,493  INFO - Verificando usuário: MSSQLLaunchpad
+2020-03-15 13:53:24,499  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,501  INFO - Verificando usuário: MSSQLSERVER
+2020-03-15 13:53:24,503  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,505  INFO - Verificando usuário: MSSQLServerOLAPService
+2020-03-15 13:53:24,507  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,509  INFO - Public - está na lista de perfis que o backup não será feito.
+2020-03-15 13:53:24,512  INFO - Verificando usuário: SQLTELEMETRY
+2020-03-15 13:53:24,514  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,516  INFO - Verificando usuário: SSASTELEMETRY
+2020-03-15 13:53:24,519  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,521  INFO - Verificando usuário: SSISScaleOutMaster140
+2020-03-15 13:53:24,523  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,525  INFO - Verificando usuário: SSISScaleOutWorker140
+2020-03-15 13:53:24,526  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,528  INFO - Verificando usuário: SSISTELEMETRY140
+2020-03-15 13:53:24,530  INFO - Tamanho: 0 B
+2020-03-15 13:53:24,532  INFO - Todos os Usuários - está na lista de perfis que o backup não será feito.
+2020-03-15 13:53:24,534  INFO - Usuário Padrão - está na lista de perfis que o backup não será feito.
+2020-03-15 13:53:24,550  INFO - 
+2020-03-15 13:53:24,553  INFO - Inicializando backup
+2020-03-15 13:53:24,555  INFO - Pasta para salvar perfil criada em: C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-52-56\BRUNADELIMAOLIVEIRA
+2020-03-15 13:53:24,560  INFO - Copiando pastas...
+2020-03-15 13:54:13,080  INFO - Log inicializado.
+2020-03-15 13:54:13,087  INFO - =================
+2020-03-15 13:54:13,090  INFO - Criando diretorio...
+2020-03-15 13:54:14,352  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-54-06
+2020-03-15 13:54:14,386  INFO - 
+2020-03-15 13:54:14,388  INFO - Procurando usuários...
+2020-03-15 13:54:14,389  INFO - =================
+2020-03-15 13:54:14,391  INFO - Administrador - está na lista de perfis que o backup não será feito.
+2020-03-15 13:54:14,392  INFO - All Users - está na lista de perfis que o backup não será feito.
+2020-03-15 13:54:14,394  INFO - Verificando usuário: BRUNADELIMAOLIVEIRA
+2020-03-15 13:54:31,051  INFO - Tamanho: 706,3 MB
+2020-03-15 13:54:31,053  INFO - Usuário aprovado para fazer backup.
+2020-03-15 13:54:31,056  INFO - Default - está na lista de perfis que o backup não será feito.
+2020-03-15 13:54:31,057  INFO - Default User - está na lista de perfis que o backup não será feito.
+2020-03-15 13:54:31,059  INFO - Verificando usuário: MsDtsServer140
+2020-03-15 13:54:31,070  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,072  INFO - Verificando usuário: MSSQLFDLauncher
+2020-03-15 13:54:31,074  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,076  INFO - Verificando usuário: MSSQLLaunchpad
+2020-03-15 13:54:31,077  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,079  INFO - Verificando usuário: MSSQLSERVER
+2020-03-15 13:54:31,081  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,083  INFO - Verificando usuário: MSSQLServerOLAPService
+2020-03-15 13:54:31,085  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,088  INFO - Public - está na lista de perfis que o backup não será feito.
+2020-03-15 13:54:31,091  INFO - Verificando usuário: SQLTELEMETRY
+2020-03-15 13:54:31,093  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,094  INFO - Verificando usuário: SSASTELEMETRY
+2020-03-15 13:54:31,096  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,098  INFO - Verificando usuário: SSISScaleOutMaster140
+2020-03-15 13:54:31,099  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,101  INFO - Verificando usuário: SSISScaleOutWorker140
+2020-03-15 13:54:31,103  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,104  INFO - Verificando usuário: SSISTELEMETRY140
+2020-03-15 13:54:31,106  INFO - Tamanho: 0 B
+2020-03-15 13:54:31,108  INFO - Todos os Usuários - está na lista de perfis que o backup não será feito.
+2020-03-15 13:54:31,111  INFO - Usuário Padrão - está na lista de perfis que o backup não será feito.
+2020-03-15 13:54:31,114  INFO - 
+2020-03-15 13:54:31,117  INFO - Inicializando backup
+2020-03-15 13:54:31,120  INFO - Pasta para salvar perfil criada em: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 13-54-06\BRUNADELIMAOLIVEIRA
+2020-03-15 13:54:31,155  INFO - Copiando pastas...
+2020-03-15 13:58:33,476 ERROR - Caminho para o diretorio não existe Source 'C:\Users\BRUNADELIMAOLIVEIRA\Documents\Minhas Imagens' does not exist
+2020-03-15 14:00:48,098  INFO - BACKUP FINALIZADO
+2020-03-15 16:22:52,366  INFO - Log inicializado.
+2020-03-15 16:22:52,390  INFO - =================
+2020-03-15 16:22:52,391  INFO - Criando diretorio...
+2020-03-15 16:22:53,202  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 16-22-36
+2020-03-15 16:22:53,538  INFO - 
+2020-03-15 16:22:53,539  INFO - Procurando usuários...
+2020-03-15 16:22:53,541  INFO - =================
+2020-03-15 16:22:53,548  INFO - Administrador - está na lista de perfis que o backup não será feito.
+2020-03-15 16:22:53,549  INFO - All Users - está na lista de perfis que o backup não será feito.
+2020-03-15 16:22:53,550  INFO - Verificando usuário: BRUNADELIMAOLIVEIRA
+2020-03-15 16:50:44,964  INFO - Log inicializado.
+2020-03-15 16:50:44,968  INFO - =================
+2020-03-15 16:50:44,971  INFO - Criando diretorio...
+2020-03-15 16:50:46,080  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 16-50-38
+2020-03-15 16:50:46,147  INFO - Tamanho: 0 B
+2020-03-15 16:50:46,492  INFO - Tamanho: 151,7 kB
+2020-03-15 16:50:48,283  INFO - Tamanho: 1,7 GB
+2020-03-15 16:51:12,269  INFO - Tamanho: 2,3 GB
+2020-03-15 16:51:55,120  INFO - Tamanho: 646,9 MB
+2020-03-15 16:52:00,158  INFO - Tamanho: 18,9 GB
+2020-03-15 16:52:00,576  INFO - Tamanho: 171,7 MB
+2020-03-15 16:52:02,615  INFO - Tamanho: 10,5 GB
+2020-03-15 16:52:02,616  INFO - 
+2020-03-15 16:52:02,618  INFO - BACKUP FINALIZADO
+2020-03-15 16:54:48,178  INFO - Log inicializado.
+2020-03-15 16:54:48,181  INFO - =================
+2020-03-15 16:54:48,184  INFO - Criando diretorio...
+2020-03-15 16:54:49,047  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 16-54-41
+2020-03-15 16:54:49,159  INFO - Tamanho: 0 B
+2020-03-15 16:54:49,161  INFO - Tamanho: 0 B
+2020-03-15 16:54:49,226  INFO - Tamanho: 151,7 kB
+2020-03-15 16:54:50,791  INFO - Tamanho: 1,7 GB
+2020-03-15 16:55:01,103  INFO - Tamanho: 2,3 GB
+2020-03-15 16:55:07,132  INFO - Tamanho: 646,9 MB
+2020-03-15 16:55:10,130  INFO - Tamanho: 18,9 GB
+2020-03-15 16:55:10,255  INFO - Tamanho: 171,7 MB
+2020-03-15 16:55:11,181  INFO - Tamanho: 10,5 GB
+2020-03-15 16:55:11,182  INFO - 
+2020-03-15 16:55:11,184  INFO - Inicializando backup
+2020-03-15 16:55:11,186  INFO - Pasta para salvar perfil criada em: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 16-54-41\AdwCleaner
+2020-03-15 16:55:11,187  INFO - 
+2020-03-15 16:55:11,188  INFO - Copiando pastas...
+2020-03-15 16:55:11,859  INFO - Pasta para salvar perfil criada em: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 16-54-41\Autodesk
+2020-03-15 16:55:11,861  INFO - 
+2020-03-15 16:55:11,862  INFO - Copiando pastas...
+2020-03-15 16:58:48,367  INFO - Pasta para salvar perfil criada em: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 16-54-41\CocosCreator
+2020-03-15 16:58:48,386  INFO - 
+2020-03-15 16:58:48,468  INFO - Copiando pastas...
+2020-03-15 17:04:47,706  INFO - Log inicializado.
+2020-03-15 17:04:47,709  INFO - =================
+2020-03-15 17:04:47,711  INFO - Criando diretorio...
+2020-03-15 17:04:48,453  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-04-39
+2020-03-15 17:04:48,687  INFO - Tamanho: 0 B
+2020-03-15 17:04:59,356  INFO - Tamanho: 3,6 GB
+2020-03-15 17:04:59,358  INFO - Tamanho: 0 B
+2020-03-15 17:04:59,498  INFO - Tamanho: 151,7 kB
+2020-03-15 17:05:00,717  INFO - Tamanho: 1,7 GB
+2020-03-15 17:08:37,369  INFO - Log inicializado.
+2020-03-15 17:08:37,371  INFO - =================
+2020-03-15 17:08:37,373  INFO - Criando diretorio...
+2020-03-15 17:08:38,731  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-08-31\DiscoC
+2020-03-15 17:08:38,781  INFO - Tamanho: 0 B
+2020-03-15 17:08:45,528  INFO - Tamanho: 3,6 GB
+2020-03-15 17:08:45,530  INFO - Tamanho: 0 B
+2020-03-15 17:08:45,532  INFO - Tamanho: 0 B
+2020-03-15 17:08:45,577  INFO - Tamanho: 151,7 kB
+2020-03-15 17:08:46,760  INFO - Tamanho: 1,7 GB
+2020-03-15 17:08:56,231  INFO - Tamanho: 2,3 GB
+2020-03-15 17:10:13,202  INFO - Tamanho: 646,9 MB
+2020-03-15 17:10:18,419  INFO - Tamanho: 18,9 GB
+2020-03-15 17:10:18,553  INFO - Tamanho: 171,7 MB
+2020-03-15 17:10:20,607  INFO - Tamanho: 10,5 GB
+2020-03-15 17:10:20,609  INFO - 
+2020-03-15 17:10:20,610  INFO - Inicializando backup
+2020-03-15 17:10:20,612  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-08-31\DiscoC\ BACKUP_BRUNA-VAIO_15_03_2020 16-54-41
+2020-03-15 17:10:20,613  INFO - 
+2020-03-15 17:10:20,614  INFO - Copiando pastas...
+2020-03-15 17:14:02,918  INFO - Log inicializado.
+2020-03-15 17:14:02,922  INFO - =================
+2020-03-15 17:14:02,924  INFO - Criando diretorio...
+2020-03-15 17:14:03,608  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-13-47
+2020-03-15 17:14:04,166  INFO - Tamanho: 0 B
+2020-03-15 17:14:17,300  INFO - Tamanho: 3,6 GB
+2020-03-15 17:14:17,303  INFO - Tamanho: 0 B
+2020-03-15 17:14:18,249  INFO - Tamanho: 167,0 MB
+2020-03-15 17:14:18,250  INFO - Tamanho: 0 B
+2020-03-15 17:14:18,432  INFO - Tamanho: 151,7 kB
+2020-03-15 17:14:20,490  INFO - Tamanho: 1,7 GB
+2020-03-15 17:14:40,249  INFO - Tamanho: 2,3 GB
+2020-03-15 17:14:55,348  INFO - Tamanho: 646,9 MB
+2020-03-15 17:14:59,166  INFO - Tamanho: 18,9 GB
+2020-03-15 17:14:59,346  INFO - Tamanho: 171,7 MB
+2020-03-15 17:15:00,614  INFO - Tamanho: 10,5 GB
+2020-03-15 17:15:00,616  INFO - 
+2020-03-15 17:15:00,617  INFO - Inicializando backup
+2020-03-15 17:15:00,619  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-13-47\ BACKUP_BRUNA-VAIO_15_03_2020 16-54-41
+2020-03-15 17:15:00,620  INFO - 
+2020-03-15 17:15:00,625  INFO - Copiando pastas...
+2020-03-15 17:21:10,711  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-13-47\ BACKUP_BRUNA-VAIO_15_03_2020 17-08-31
+2020-03-15 17:21:10,716  INFO - 
+2020-03-15 17:21:10,719  INFO - Copiando pastas...
+2020-03-15 17:21:36,629  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-13-47\AdwCleaner
+2020-03-15 17:21:36,630  INFO - 
+2020-03-15 17:21:37,059  INFO - Copiando pastas...
+2020-03-15 17:21:38,410  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-13-47\Autodesk
+2020-03-15 17:21:38,412  INFO - 
+2020-03-15 17:21:38,433  INFO - Copiando pastas...
+2020-03-15 17:24:00,883  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-13-47\CocosCreator
+2020-03-15 17:24:00,885  INFO - 
+2020-03-15 17:24:00,983  INFO - Copiando pastas...
+2020-03-15 17:26:52,473  INFO - Log inicializado.
+2020-03-15 17:26:52,477  INFO - =================
+2020-03-15 17:26:52,481  INFO - Criando diretorio...
+2020-03-15 17:26:53,284  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-26-23
+2020-03-15 17:27:26,159  INFO - Tamanho: 0 B
+2020-03-15 17:28:09,050  INFO - Tamanho: 3,6 GB
+2020-03-15 17:28:09,057  INFO - Tamanho: 0 B
+2020-03-15 17:28:15,028  INFO - Tamanho: 167,0 MB
+2020-03-15 17:37:20,309  INFO - Log inicializado.
+2020-03-15 17:37:20,312  INFO - =================
+2020-03-15 17:37:20,315  INFO - Criando diretorio...
+2020-03-15 17:37:21,940  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-36-59
+2020-03-15 17:37:22,542  INFO - Tamanho: 0 B
+2020-03-15 17:37:22,544  INFO - Tamanho: 0 B
+2020-03-15 17:37:22,705  INFO - Tamanho: 151,7 kB
+2020-03-15 17:37:25,412  INFO - Tamanho: 1,7 GB
+2020-03-15 17:38:03,340  INFO - Tamanho: 2,3 GB
+2020-03-15 17:38:55,133  INFO - Tamanho: 646,9 MB
+2020-03-15 17:39:01,343  INFO - Tamanho: 18,9 GB
+2020-03-15 17:39:01,524  INFO - Tamanho: 171,7 MB
+2020-03-15 17:39:03,076  INFO - Tamanho: 10,5 GB
+2020-03-15 17:39:03,079  INFO - 
+2020-03-15 17:39:03,081  INFO - Inicializando backup
+2020-03-15 17:42:00,677  INFO - Log inicializado.
+2020-03-15 17:42:00,682  INFO - =================
+2020-03-15 17:42:00,687  INFO - Criando diretorio...
+2020-03-15 17:42:01,830  INFO - Diretorio criado em C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-41-53
+2020-03-15 17:42:01,910  INFO - Tamanho: 0 B
+2020-03-15 17:42:01,914  INFO - Tamanho: 0 B
+2020-03-15 17:42:01,917  INFO - Tamanho: 0 B
+2020-03-15 17:42:01,942  INFO - Tamanho: 151,7 kB
+2020-03-15 17:42:03,765  INFO - Tamanho: 1,7 GB
+2020-03-15 17:42:14,565  INFO - Tamanho: 2,3 GB
+2020-03-15 17:42:20,899  INFO - Tamanho: 646,9 MB
+2020-03-15 17:42:24,295  INFO - Tamanho: 18,9 GB
+2020-03-15 17:42:24,496  INFO - Tamanho: 171,7 MB
+2020-03-15 17:42:25,561  INFO - Tamanho: 10,5 GB
+2020-03-15 17:42:25,562  INFO - 
+2020-03-15 17:42:25,564  INFO - Inicializando backup
+2020-03-15 17:42:25,565  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-41-53\DiscoC\AdwCleaner
+2020-03-15 17:42:25,567  INFO - 
+2020-03-15 17:42:25,569  INFO - Copiando pastas...
+2020-03-15 17:42:26,332  INFO - Pasta para salvar dados do disco C: 
+C:\ BACKUP_BRUNA-VAIO_15_03_2020 17-41-53\DiscoC\Autodesk
+2020-03-15 17:42:26,334  INFO - 
+2020-03-15 17:42:26,336  INFO - Copiando pastas...
+2020-09-01 11:08:56,388  INFO - Log inicializado.
+2020-09-01 11:08:56,392  INFO - =================
+2020-09-01 11:08:56,393  INFO - Criando diretorio...
+2020-09-01 11:08:59,323  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-08-48
+2020-09-01 11:08:59,383  INFO - Tamanho: 0 B
+2020-09-01 11:08:59,413  INFO - Tamanho: 129 B
+2020-09-01 11:09:03,570  INFO - Tamanho: 1,8 GB
+2020-09-01 11:09:03,647  INFO - Tamanho: 346,8 kB
+2020-09-01 11:09:03,650  INFO - Tamanho: 0 B
+2020-09-01 11:09:03,651  INFO - Tamanho: 0 B
+2020-09-01 11:09:03,652  INFO - Tamanho: 0 B
+2020-09-01 11:09:03,762  INFO - Tamanho: 264,9 MB
+2020-09-01 11:32:43,823  INFO - Log inicializado.
+2020-09-01 11:32:43,824  INFO - =================
+2020-09-01 11:32:43,824  INFO - Criando diretorio...
+2020-09-01 11:32:45,373  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-32-37
+2020-09-01 11:32:45,450  INFO - Tamanho: 0 B
+2020-09-01 11:32:45,451  INFO - Tamanho: 0 B
+2020-09-01 11:32:45,496  INFO - Tamanho: 48,8 kB
+2020-09-01 11:32:45,496  INFO - Tamanho: 0 B
+2020-09-01 11:32:45,497  INFO - Tamanho: 0 B
+2020-09-01 11:33:21,423  INFO - Log inicializado.
+2020-09-01 11:33:21,425  INFO - =================
+2020-09-01 11:33:21,425  INFO - Criando diretorio...
+2020-09-01 11:33:22,613  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-33-17
+2020-09-01 11:33:22,636  INFO - Tamanho: 0 B
+2020-09-01 11:33:22,636  INFO - Tamanho: 0 B
+2020-09-01 11:33:22,647  INFO - Tamanho: 48,8 kB
+2020-09-01 11:33:22,653  INFO - Tamanho: 0 B
+2020-09-01 11:33:22,653  INFO - Tamanho: 0 B
+2020-09-01 11:35:55,204  INFO - Log inicializado.
+2020-09-01 11:35:55,205  INFO - =================
+2020-09-01 11:35:55,205  INFO - Criando diretorio...
+2020-09-01 11:35:56,283  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-35-51
+2020-09-01 11:35:56,294  INFO - 
+2020-09-01 11:35:56,295  INFO - BACKUP FINALIZADO
+2020-09-01 11:37:09,988  INFO - Log inicializado.
+2020-09-01 11:37:09,989  INFO - =================
+2020-09-01 11:37:09,990  INFO - Criando diretorio...
+2020-09-01 11:37:16,723  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-37-06
+2020-09-01 11:37:16,732  INFO - 
+2020-09-01 11:37:16,733  INFO - BACKUP FINALIZADO
+2020-09-01 11:37:34,018  INFO - Log inicializado.
+2020-09-01 11:37:34,020  INFO - =================
+2020-09-01 11:37:34,020  INFO - Criando diretorio...
+2020-09-01 11:37:34,971  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-37-30
+2020-09-01 11:38:18,514  INFO - Log inicializado.
+2020-09-01 11:38:18,515  INFO - =================
+2020-09-01 11:38:18,516  INFO - Criando diretorio...
+2020-09-01 11:38:19,450  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-38-12
+2020-09-01 11:40:10,806  INFO - Log inicializado.
+2020-09-01 11:40:10,807  INFO - =================
+2020-09-01 11:40:10,808  INFO - Criando diretorio...
+2020-09-01 11:40:11,897  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-40-06
+2020-09-01 11:40:11,912  INFO - Tamanho: 0 B
+2020-09-01 11:40:11,915  INFO - Tamanho: 0 B
+2020-09-01 11:40:11,916  INFO - Tamanho: 0 B
+2020-09-01 11:40:11,918  INFO - Tamanho: 0 B
+2020-09-01 11:40:11,919  INFO - Tamanho: 0 B
+2020-09-01 11:40:11,935  INFO - Tamanho: 341 B
+2020-09-01 11:40:12,922  INFO - Tamanho: 1,8 GB
+2020-09-01 11:40:12,923  INFO - Tamanho: 346,8 kB
+2020-09-01 11:40:12,924  INFO - Tamanho: 0 B
+2020-09-01 11:40:12,924  INFO - Tamanho: 0 B
+2020-09-01 11:40:12,925  INFO - Tamanho: 0 B
+2020-09-01 11:40:12,946  INFO - Tamanho: 264,9 MB
+2020-09-01 11:43:29,177  INFO - Log inicializado.
+2020-09-01 11:43:29,178  INFO - =================
+2020-09-01 11:43:29,179  INFO - Criando diretorio...
+2020-09-01 11:43:29,921  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-43-17
+2020-09-01 11:43:29,932  INFO - Tamanho: 0 B
+2020-09-01 11:43:29,939  INFO - Tamanho: 0 B
+2020-09-01 11:43:29,940  INFO - Tamanho: 0 B
+2020-09-01 11:43:29,940  INFO - Tamanho: 0 B
+2020-09-01 11:43:29,942  INFO - Tamanho: 0 B
+2020-09-01 11:43:29,942  INFO - Tamanho: 0 B
+2020-09-01 11:43:29,947  INFO - Tamanho: 341 B
+2020-09-01 11:43:30,936  INFO - Tamanho: 1,8 GB
+2020-09-01 11:43:30,952  INFO - Tamanho: 346,8 kB
+2020-09-01 11:43:30,953  INFO - Tamanho: 0 B
+2020-09-01 11:43:30,953  INFO - Tamanho: 0 B
+2020-09-01 11:43:30,954  INFO - Tamanho: 0 B
+2020-09-01 11:43:30,969  INFO - Tamanho: 264,9 MB
+2020-09-01 11:44:36,489  INFO - Log inicializado.
+2020-09-01 11:44:36,490  INFO - =================
+2020-09-01 11:44:36,491  INFO - Criando diretorio...
+2020-09-01 11:44:37,728  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 11-44-32
+2020-09-01 11:44:37,738  INFO - Tamanho: 0 B
+2020-09-01 11:44:37,739  INFO - Tamanho: 0 B
+2020-09-01 11:44:37,745  INFO - Tamanho: 0 B
+2020-09-01 11:44:37,747  INFO - Tamanho: 0 B
+2020-09-01 11:44:37,748  INFO - Tamanho: 0 B
+2020-09-01 11:44:37,750  INFO - Tamanho: 0 B
+2020-09-01 11:44:37,750  INFO - Tamanho: 0 B
+2020-09-01 11:44:37,753  INFO - Tamanho: 341 B
+2020-09-01 11:44:38,828  INFO - Tamanho: 1,8 GB
+2020-09-01 11:44:38,835  INFO - Tamanho: 346,8 kB
+2020-09-01 11:44:38,836  INFO - Tamanho: 0 B
+2020-09-01 11:44:38,837  INFO - Tamanho: 0 B
+2020-09-01 11:44:38,837  INFO - Tamanho: 0 B
+2020-09-01 11:44:38,865  INFO - Tamanho: 264,9 MB
+2020-09-01 11:46:33,405  INFO - Tamanho: 14,9 GB
+2020-09-01 11:46:33,426  INFO - Tamanho: 0 B
+2020-09-01 11:46:33,427  INFO - Tamanho: 0 B
+2020-09-01 11:46:33,655  INFO - Tamanho: 164,0 MB
+2020-09-01 11:46:33,671  INFO - Tamanho: 132,2 MB
+2020-09-01 11:46:35,637  INFO - Tamanho: 69,2 GB
+2020-09-01 11:46:35,638  INFO - Tamanho: 0 B
+2020-09-01 11:46:35,641  INFO - Tamanho: 0 B
+2020-09-01 11:46:35,654  INFO - Tamanho: 91,2 kB
+2020-09-01 11:46:35,704  INFO - Tamanho: 29,2 GB
+2020-09-01 11:46:35,720  INFO - Tamanho: 702,5 kB
+2020-09-01 11:46:39,082  INFO - Tamanho: 6,0 GB
+2020-09-01 11:47:07,266  INFO - Tamanho: 27,9 MB
+2020-09-01 11:47:07,267  INFO - Tamanho: 0 B
+2020-09-01 11:47:07,267  INFO - Tamanho: 0 B
+2020-09-01 11:47:07,287  INFO - Tamanho: 0 B
+2020-09-01 11:47:07,288  INFO - Tamanho: 0 B
+2020-09-01 11:47:07,288  INFO - Tamanho: 0 B
+2020-09-01 11:47:07,289  INFO - 
+2020-09-01 11:47:07,289  INFO - BACKUP FINALIZADO
+2020-09-01 12:20:14,069  INFO - Log inicializado.
+2020-09-01 12:20:14,070  INFO - =================
+2020-09-01 12:20:14,070  INFO - Criando diretorio...
+2020-09-01 12:20:15,120  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 12-20-10
+2020-09-01 12:20:15,138  INFO - Tamanho: 0 B
+2020-09-01 12:20:15,147  INFO - Tamanho: 129 B
+2020-09-01 12:20:15,148  INFO - 
+2020-09-01 12:20:15,149  INFO - Inicializando backup
+2020-09-01 12:20:15,149  INFO - Pasta para salvar dados do disco C: 
+C:\Teste002\S-1-5-18
+2020-09-01 12:20:15,150  INFO - 
+2020-09-01 12:20:15,150  INFO - Copiando pastas...
+2020-09-01 12:20:15,155  INFO - Pasta para salvar dados do disco C: 
+C:\Teste002\S-1-5-21-4096461883-1194829434-4177342402-24656
+2020-09-01 12:20:15,155  INFO - 
+2020-09-01 12:20:15,156  INFO - Copiando pastas...
+2020-09-01 12:20:16,253  INFO - Tamanho: 1,8 GB
+2020-09-01 12:20:16,254  INFO - 
+2020-09-01 12:20:16,254  INFO - Inicializando backup
+2020-09-01 12:20:16,255  INFO - Pasta para salvar dados do disco C: 
+C:\Teste002\boot
+2020-09-01 12:20:16,255  INFO - 
+2020-09-01 12:20:16,256  INFO - Copiando pastas...
+2020-09-01 12:20:17,038  INFO - Pasta para salvar dados do disco C: 
+C:\Teste002\efi
+2020-09-01 12:20:17,039  INFO - 
+2020-09-01 12:20:17,040  INFO - Copiando pastas...
+2020-09-01 12:20:18,645  INFO - Pasta para salvar dados do disco C: 
+C:\Teste002\Sources
+2020-09-01 12:20:18,646  INFO - 
+2020-09-01 12:20:18,647  INFO - Copiando pastas...
+2020-09-01 12:20:41,038 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagerr.xml (Acesso negado)
+2020-09-01 12:20:41,041 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagwrn.xml (Acesso negado)
+2020-09-01 12:20:58,967 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setupact.log (Acesso negado)
+2020-09-01 12:20:58,970 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setuperr.log (Acesso negado)
+2020-09-01 12:20:58,973 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state-old.xml (Acesso negado)
+2020-09-01 12:20:58,976 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state.xml (Acesso negado)
+2020-09-01 12:23:41,492  INFO - Log inicializado.
+2020-09-01 12:23:41,493  INFO - =================
+2020-09-01 12:23:41,494  INFO - Criando diretorio...
+2020-09-01 12:23:42,463  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 12-23-37
+2020-09-01 12:23:42,469  INFO - Tamanho: 0 B
+2020-09-01 12:23:42,470  INFO - Tamanho: 0 B
+2020-09-01 12:23:42,481  INFO - Tamanho: 129 B
+2020-09-01 12:23:42,483  INFO - 
+2020-09-01 12:23:42,484  INFO - Inicializando backup
+2020-09-01 12:23:43,198  INFO - Tamanho: 1,8 GB
+2020-09-01 12:23:43,198  INFO - 
+2020-09-01 12:23:43,204  INFO - Inicializando backup
+2020-09-01 12:23:54,264 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagerr.xml (Acesso negado)
+2020-09-01 12:23:54,266 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagwrn.xml (Acesso negado)
+2020-09-01 12:24:01,903 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setupact.log (Acesso negado)
+2020-09-01 12:24:01,905 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setuperr.log (Acesso negado)
+2020-09-01 12:24:01,906 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state-old.xml (Acesso negado)
+2020-09-01 12:24:01,910 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state.xml (Acesso negado)
+2020-09-01 12:25:08,132  INFO - Log inicializado.
+2020-09-01 12:25:08,135  INFO - =================
+2020-09-01 12:25:08,136  INFO - Criando diretorio...
+2020-09-01 12:25:08,216  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 12-25-00
+2020-09-01 12:25:08,513  INFO - Tamanho: 0 B
+2020-09-01 12:25:08,615  INFO - Tamanho: 129 B
+2020-09-01 12:25:08,615  INFO - 
+2020-09-01 12:25:08,616  INFO - Inicializando backup
+2020-09-01 12:25:10,627  INFO - Tamanho: 1,8 GB
+2020-09-01 12:25:10,628  INFO - 
+2020-09-01 12:25:10,628  INFO - Inicializando backup
+2020-09-01 12:25:55,546  INFO - Log inicializado.
+2020-09-01 12:25:55,547  INFO - =================
+2020-09-01 12:25:55,548  INFO - Criando diretorio...
+2020-09-01 12:25:56,462  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 12-25-51
+2020-09-01 12:25:56,478  INFO - Tamanho: 0 B
+2020-09-01 12:25:56,497  INFO - Tamanho: 129 B
+2020-09-01 12:25:56,500  INFO - 
+2020-09-01 12:25:56,501  INFO - Inicializando backup
+2020-09-01 12:25:57,393  INFO - Tamanho: 1,8 GB
+2020-09-01 12:25:57,400  INFO - 
+2020-09-01 12:25:57,400  INFO - Inicializando backup
+2020-09-01 12:26:14,765 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagerr.xml (Acesso negado)
+2020-09-01 12:26:14,768 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagwrn.xml (Acesso negado)
+2020-09-01 12:26:30,110 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setupact.log (Acesso negado)
+2020-09-01 12:26:30,112 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setuperr.log (Acesso negado)
+2020-09-01 12:26:30,114 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state-old.xml (Acesso negado)
+2020-09-01 12:26:30,118 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state.xml (Acesso negado)
+2020-09-01 12:27:11,468  INFO - Tamanho: 346,8 kB
+2020-09-01 12:27:11,470  INFO - 
+2020-09-01 12:27:11,471  INFO - Inicializando backup
+2020-09-01 12:27:11,602  INFO - Tamanho: 0 B
+2020-09-01 12:27:11,682  INFO - Tamanho: 264,9 MB
+2020-09-01 12:27:11,682  INFO - 
+2020-09-01 12:27:11,683  INFO - Inicializando backup
+2020-09-01 12:27:19,049  INFO - Tamanho: 0 B
+2020-09-01 12:27:19,050  INFO - Tamanho: 0 B
+2020-09-01 12:27:19,555  INFO - Tamanho: 164,0 MB
+2020-09-01 12:27:19,555  INFO - 
+2020-09-01 12:27:19,556  INFO - Inicializando backup
+2020-09-01 12:27:25,950  INFO - Tamanho: 132,2 MB
+2020-09-01 12:27:25,951  INFO - 
+2020-09-01 12:27:25,951  INFO - Inicializando backup
+2020-09-01 12:27:29,074  INFO - Tamanho: 0 B
+2020-09-01 12:27:29,074  INFO - Tamanho: 0 B
+2020-09-01 12:27:29,122  INFO - Tamanho: 91,2 kB
+2020-09-01 12:27:29,123  INFO - 
+2020-09-01 12:27:29,124  INFO - Inicializando backup
+2020-09-01 12:27:29,368  INFO - Tamanho: 702,5 kB
+2020-09-01 12:27:29,374  INFO - 
+2020-09-01 12:27:29,374  INFO - Inicializando backup
+2020-09-01 12:27:35,078  INFO - Tamanho: 6,0 GB
+2020-09-01 12:27:35,083  INFO - 
+2020-09-01 12:27:35,084  INFO - Inicializando backup
+2020-09-01 12:29:29,718  INFO - Log inicializado.
+2020-09-01 12:29:29,719  INFO - =================
+2020-09-01 12:29:29,720  INFO - Criando diretorio...
+2020-09-01 12:29:30,616  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 12-29-23
+2020-09-01 12:29:30,640  INFO - Tamanho: 0 B
+2020-09-01 12:29:31,623  INFO - Tamanho: 2,4 GB
+2020-09-01 12:29:31,624  INFO - 
+2020-09-01 12:29:31,624  INFO - Inicializando backup
+2020-09-01 12:31:50,140  INFO - Tamanho: 1,8 GB
+2020-09-01 12:31:50,142  INFO - 
+2020-09-01 12:31:50,144  INFO - Inicializando backup
+2020-09-01 12:32:05,598 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagerr.xml (Acesso negado)
+2020-09-01 12:32:05,600 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagwrn.xml (Acesso negado)
+2020-09-01 12:32:10,813 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setupact.log (Acesso negado)
+2020-09-01 12:32:10,814 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setuperr.log (Acesso negado)
+2020-09-01 12:32:10,816 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state-old.xml (Acesso negado)
+2020-09-01 12:32:10,829 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state.xml (Acesso negado)
+2020-09-01 12:32:55,964  INFO - Tamanho: 346,8 kB
+2020-09-01 12:32:55,965  INFO - 
+2020-09-01 12:32:55,965  INFO - Inicializando backup
+2020-09-01 12:32:56,080  INFO - Tamanho: 0 B
+2020-09-01 12:32:56,097  INFO - Tamanho: 264,9 MB
+2020-09-01 12:32:56,098  INFO - 
+2020-09-01 12:32:56,100  INFO - Inicializando backup
+2020-09-01 12:33:10,751  INFO - Tamanho: 0 B
+2020-09-01 12:33:10,751  INFO - Tamanho: 0 B
+2020-09-01 12:33:10,776  INFO - Tamanho: 164,0 MB
+2020-09-01 12:33:10,777  INFO - 
+2020-09-01 12:33:10,777  INFO - Inicializando backup
+2020-09-01 12:33:17,057  INFO - Tamanho: 132,2 MB
+2020-09-01 12:33:17,058  INFO - 
+2020-09-01 12:33:17,059  INFO - Inicializando backup
+2020-09-01 12:33:20,013  INFO - Tamanho: 0 B
+2020-09-01 12:33:20,015  INFO - Tamanho: 0 B
+2020-09-01 12:33:20,025  INFO - Tamanho: 91,2 kB
+2020-09-01 12:33:20,027  INFO - 
+2020-09-01 12:33:20,029  INFO - Inicializando backup
+2020-09-01 12:33:21,467  INFO - Tamanho: 702,5 kB
+2020-09-01 12:33:21,469  INFO - 
+2020-09-01 12:33:21,470  INFO - Inicializando backup
+2020-09-01 12:33:23,180  INFO - Tamanho: 6,0 GB
+2020-09-01 12:33:23,181  INFO - 
+2020-09-01 12:33:23,181  INFO - Inicializando backup
+2020-09-01 12:44:23,717  INFO - Log inicializado.
+2020-09-01 12:44:23,718  INFO - =================
+2020-09-01 12:44:23,719  INFO - Criando diretorio...
+2020-09-01 12:44:24,408  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 12-44-19
+2020-09-01 12:44:24,436  INFO - Tamanho: 0 B
+2020-09-01 12:44:24,437  INFO - Tamanho: 0 B
+2020-09-01 12:44:27,125  INFO - Tamanho: 8,3 GB
+2020-09-01 12:44:27,125  INFO - 
+2020-09-01 12:44:27,126  INFO - Inicializando backup
+2020-09-01 12:50:28,237  INFO - Tamanho: 1,8 GB
+2020-09-01 12:50:28,238  INFO - 
+2020-09-01 12:50:28,239  INFO - Inicializando backup
+2020-09-01 12:51:00,972 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagerr.xml (Acesso negado)
+2020-09-01 12:51:00,987 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\diagwrn.xml (Acesso negado)
+2020-09-01 12:51:07,409 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setupact.log (Acesso negado)
+2020-09-01 12:51:07,424 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\setuperr.log (Acesso negado)
+2020-09-01 12:51:07,433 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state-old.xml (Acesso negado)
+2020-09-01 12:51:07,439 ERROR - Caminho para o diretorio não existe C:\$WINDOWS.~BT\Sources\Panther\windlp.state.xml (Acesso negado)
+2020-09-01 12:52:05,989  INFO - Log inicializado.
+2020-09-01 12:52:05,990  INFO - =================
+2020-09-01 12:52:05,991  INFO - Criando diretorio...
+2020-09-01 12:52:06,760  INFO - Diretorio criado em C:\ BACKUP_FIELDPC_01_09_2020 12-52-00
+2020-09-01 12:52:06,792  INFO - Tamanho: 0 B
+2020-09-01 12:52:06,793  INFO - Tamanho: 0 B
+2020-09-01 12:52:06,793  INFO - Tamanho: 0 B
+2020-09-01 12:52:06,819  INFO - Tamanho: 346,8 kB
+2020-09-01 12:52:06,820  INFO - 
+2020-09-01 12:52:06,821  INFO - Inicializando backup
+2020-09-01 12:52:07,032  INFO - Tamanho: 0 B
+2020-09-01 12:52:07,046  INFO - Tamanho: 264,9 MB
+2020-09-01 12:52:07,047  INFO - 
+2020-09-01 12:52:07,048  INFO - Inicializando backup
+2020-09-01 12:52:20,715  INFO - Tamanho: 0 B
+2020-09-01 12:52:20,718  INFO - Tamanho: 0 B
+2020-09-01 12:52:20,858  INFO - Tamanho: 164,0 MB
+2020-09-01 12:52:20,859  INFO - 
+2020-09-01 12:52:20,860  INFO - Inicializando backup
+2020-09-01 12:52:37,256  INFO - Tamanho: 132,2 MB
+2020-09-01 12:52:37,257  INFO - 
+2020-09-01 12:52:37,258  INFO - Inicializando backup
+2020-09-01 12:52:44,634  INFO - Tamanho: 0 B
+2020-09-01 12:52:44,635  INFO - Tamanho: 0 B
+2020-09-01 12:52:44,653  INFO - Tamanho: 91,2 kB
+2020-09-01 12:52:44,654  INFO - 
+2020-09-01 12:52:44,654  INFO - Inicializando backup
+2020-09-01 12:52:46,045  INFO - Tamanho: 702,5 kB
+2020-09-01 12:52:46,045  INFO - 
+2020-09-01 12:52:46,046  INFO - Inicializando backup
+2020-09-01 12:52:56,454  INFO - Tamanho: 6,0 GB
+2020-09-01 12:52:56,454  INFO - 
+2020-09-01 12:52:56,455  INFO - Inicializando backup
+2020-09-01 12:58:20,139  INFO - Tamanho: 27,9 MB
+2020-09-01 12:58:20,140  INFO - 
+2020-09-01 12:58:20,140  INFO - Inicializando backup
+2020-09-01 12:59:35,577  INFO - Tamanho: 0 B
+2020-09-01 12:59:35,651  INFO - Tamanho: 0 B
+2020-09-01 12:59:35,680  INFO - Tamanho: 0 B
+2020-09-01 12:59:35,688  INFO - Tamanho: 0 B
+2020-09-01 12:59:37,800  INFO - Tamanho: 868,2 MB
+2020-09-01 12:59:37,800  INFO - 
+2020-09-01 12:59:37,801  INFO - Inicializando backup
+2020-09-01 13:00:29,240  INFO - Tamanho: 512,6 MB
+2020-09-01 13:00:29,240  INFO - 
+2020-09-01 13:00:29,241  INFO - Inicializando backup
+2020-09-01 13:01:06,953 ERROR - Caminho para o diretorio não existe Source 'C:\Users\554033\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\python.exe' does not exist
+2020-09-01 13:01:07,002 ERROR - Caminho para o diretorio não existe Source 'C:\Users\554033\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\python3.exe' does not exist
+2020-09-01 13:01:07,009 ERROR - Caminho para o diretorio não existe Source 'C:\Users\554033\AppData\Local\Microsoft\WindowsApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe' does not exist
+2020-09-01 13:01:07,010 ERROR - Caminho para o diretorio não existe Source 'C:\Users\554033\AppData\Local\Microsoft\WindowsApps\MicrosoftEdge.exe' does not exist
+2020-09-01 13:01:07,011 ERROR - Caminho para o diretorio não existe Source 'C:\Users\554033\AppData\Local\Microsoft\WindowsApps\python.exe' does not exist
+2020-09-01 13:01:07,012 ERROR - Caminho para o diretorio não existe Source 'C:\Users\554033\AppData\Local\Microsoft\WindowsApps\python3.exe' does not exist
+2020-09-01 13:01:24,748  INFO - Tamanho: 0 B
+2020-09-01 13:01:30,152  INFO - Tamanho: 107,0 MB
+2020-09-01 13:01:30,153  INFO - 
+2020-09-01 13:01:30,153  INFO - Inicializando backup
+2020-09-01 13:01:34,851 ERROR - Caminho para o diretorio não existe Source 'C:\Users\Administrador\AppData\Local\Microsoft\WindowsApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe' does not exist
+2020-09-01 13:01:34,852 ERROR - Caminho para o diretorio não existe Source 'C:\Users\Administrador\AppData\Local\Microsoft\WindowsApps\MicrosoftEdge.exe' does not exist
+2020-09-01 13:02:01,535  INFO - Tamanho: 2,7 GB
+2020-09-01 13:02:01,536  INFO - 
+2020-09-01 13:02:01,536  INFO - Inicializando backup
+2020-09-01 13:02:04,025 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-07-25-04-16-01-194-13176 (Acesso negado)
+2020-09-01 13:02:04,028 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-07-31-03-09-00-754-2596 (Acesso negado)
+2020-09-01 13:02:04,029 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-07-31-04-24-38-775-8316 (Acesso negado)
+2020-09-01 13:02:04,031 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-07-31-12-17-20-479-8248 (Acesso negado)
+2020-09-01 13:02:04,033 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-07-31-13-12-28-802-8408 (Acesso negado)
+2020-09-01 13:02:04,036 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-08-04-17-40-07-161-9204 (Acesso negado)
+2020-09-01 13:02:04,038 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-08-12-13-24-40-985-9108 (Acesso negado)
+2020-09-01 13:02:04,040 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-08-31-12-27-14-703-6620 (Acesso negado)
+2020-09-01 13:02:04,045 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Dropbox\Update\Log\DropboxUpdate.log-2020-09-01-15-35-18-250-11432-finished (Acesso negado)
+2020-09-01 13:02:05,539 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\19683df2ae06c993ad3188c9e6d2cb67_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:05,541 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\4b113aad49683b0cda37980dad73fe00_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:05,543 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\4d8bcc7337edfccebdbae1f10efe4158_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:05,548 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\72802e39cda3c370e69f93386d7b9888_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:05,567 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\8c518dd72edb2d7718ff925859ad42f7_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:05,569 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\b16a2d3dd1f115be1ec259031ee4288d_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:05,571 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\f686aace6942fb7f7ceb231212eef4a4_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:05,573 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Crypto\RSA\MachineKeys\f906e82fc882e1de18f7b6c615f72f3a_a2667b5b-23d4-4c92-bcfd-70740130557f (Acesso negado)
+2020-09-01 13:02:07,796 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Microsoft\Windows\LfSvc\Geofence\GeofenceApplicationID.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:37,755 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\BASH\ShdSettg.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:37,773 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\BASH\ShdSettg.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:37,779 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\BASH\SPSettg.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:37,788 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\BASH\SPSettg.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,339 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccGEvt\Global\LM2.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,398 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccGLog\ccGenericLog.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,464 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccJobMgr\JobMgr.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,485 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccJobMgr\JobMgr.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,494 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\0b0622dd-e0c0-4f71-a651-ebad4b1476f0.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,517 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\5a436f0e-03fb-4700-bea8-d49c18da53ce.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,533 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\5ea628cb-be0d-4178-98dc-c1efd5de9700.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,558 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\6a1d6290-3e07-4cda-b54b-83fad278dc0a.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,572 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\6a1d6290-3e07-4cda-b54b-83fad278dc0a.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,575 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\722eb5cc-0b9e-4e40-bd6a-832366337f38.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,645 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\722eb5cc-0b9e-4e40-bd6a-832366337f38.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,648 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\72ab2cc7-2135-4342-a36d-8883df4d0bf6.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,663 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\c2f1e9ad-a79b-4617-a1f2-583e35747934.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,778 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\c2f1e9ad-a79b-4617-a1f2-583e35747934.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,780 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\cb3a9810-ed6c-408b-a42d-aff07d9e1623.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,833 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\ccSettings_14.3.558.0000.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,849 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\ccSettings_14.3.558.0000.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,852 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\D3DBE8D911EAAF4C0EEC5BA4111DF8C4.DAT (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,868 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\D3DBE8D911EAAF4C0EEC5BA4111DF8C4.DAT.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,878 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\Volatile.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:51,881 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\ccSetMgr\Volatile.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,043 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\SBSDKEng.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,067 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\CmnClnt\SBSDKGbl.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,099 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\ATP.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,119 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\ATP.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,139 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\CloudConnection.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,156 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\CloudConnection.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,229 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\Connections.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,242 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\Connections.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,245 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\content.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,283 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\EimLoaderData.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,433 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\ProfileManagement.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,453 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\ProfileManagement.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,714 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\symresolver.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:02:58,735 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Config\TrayPluginRegistration.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:11,737 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EDR\ATPInfo.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:11,840 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EDR\csdkcfg.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:11,900 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EDR\csdkcfg.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:11,904 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EDR\csdkset.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:11,975 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EDR\edrSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:11,985 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EDR\edrSettings.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:11,998 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EdrCmp\EdrCmpSet.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:12,011 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EdrEpmpCStorage.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:12,038 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\EdrEpmpCStorage.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:12,199 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\FeatureState\{8131B5DF-5997-4523-81A2-C1B2488A1964} (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:12,207 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Framework\o2OxygenSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:12,685 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\IPS\Overrides.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:12,710 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\IPS\PEP_RUL.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:12,725 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\IPS\PEP_RUL.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:13,640 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Lue\LueDyn.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:13,671 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\Lue\LueDyn.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:13,680 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\NTR\ntrSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:13,702 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\NTR\ntrSettings.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:13,710 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\PCH\pchSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:13,724 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\PchCmp\PchCmpSet.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:14,288 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\sef\sef_mountpoint.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:14,376 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\sef\sef_mountpoint.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,314 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\SRTSP\SrtspSet.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,364 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\SRTSP\SrtspSet.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,472 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\symnetdrv\CONFIG_CUR.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,553 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\symnetdrv\LOCALCONFIG_CUR.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,591 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\symnetdrv\LocationMap.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,608 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\symnetdrv\SET_CUR.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,634 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\symnetdrv\SET_CUR.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,809 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\TDAD\tdadSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,827 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\14.3.558.0000.105\Data\TDAD\tdadSettings.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,923 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\BASH\ShdSettg.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,932 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\BASH\ShdSettg.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,936 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\BASH\SPSettg.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:15,941 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\BASH\SPSettg.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,626 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccGEvt\Global\LM2.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,639 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccGLog\ccGenericLog.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,653 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccJobMgr\JobMgr.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,662 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccJobMgr\JobMgr.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,669 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\0b0622dd-e0c0-4f71-a651-ebad4b1476f0.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,678 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\5a436f0e-03fb-4700-bea8-d49c18da53ce.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,685 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\5ea628cb-be0d-4178-98dc-c1efd5de9700.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,694 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\6a1d6290-3e07-4cda-b54b-83fad278dc0a.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,701 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\6a1d6290-3e07-4cda-b54b-83fad278dc0a.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,704 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\722eb5cc-0b9e-4e40-bd6a-832366337f38.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,711 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\722eb5cc-0b9e-4e40-bd6a-832366337f38.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,714 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\72ab2cc7-2135-4342-a36d-8883df4d0bf6.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,720 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\c2f1e9ad-a79b-4617-a1f2-583e35747934.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,728 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\c2f1e9ad-a79b-4617-a1f2-583e35747934.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,731 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\cb3a9810-ed6c-408b-a42d-aff07d9e1623.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,740 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\ccSettings_14.3.558.0000.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,748 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\ccSettings_14.3.558.0000.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,753 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\D3DBE8D911EAAF4C0EEC5BA4111DF8C4.DAT (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,764 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\D3DBE8D911EAAF4C0EEC5BA4111DF8C4.DAT.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,772 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\Volatile.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:21,777 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\ccSetMgr\Volatile.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,378 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\SBSDKEng.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,385 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\CmnClnt\SBSDKGbl.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,398 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\ATP.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,407 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\ATP.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,414 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\CloudConnection.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,420 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\CloudConnection.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,440 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\Connections.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,448 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\Connections.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,450 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\content.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,470 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\EimLoaderData.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,512 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\ProfileManagement.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,529 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\ProfileManagement.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,591 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\symresolver.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:22,597 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Config\TrayPluginRegistration.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,690 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EDR\ATPInfo.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,700 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EDR\csdkcfg.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,709 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EDR\csdkcfg.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,716 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EDR\csdkset.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,801 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EDR\edrSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,869 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EDR\edrSettings.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,879 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EdrCmp\EdrCmpSet.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,889 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EdrEpmpCStorage.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:29,901 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\EdrEpmpCStorage.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,207 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\FeatureState\{8131B5DF-5997-4523-81A2-C1B2488A1964} (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,215 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Framework\o2OxygenSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,672 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\IPS\Overrides.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,680 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\IPS\PEP_RUL.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,686 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\IPS\PEP_RUL.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,936 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Lue\LueDyn.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,943 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\Lue\LueDyn.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,949 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\NTR\ntrSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,958 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\NTR\ntrSettings.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,965 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\PCH\pchSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:30,978 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\PchCmp\PchCmpSet.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,069 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\sef\sef_mountpoint.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,077 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\sef\sef_mountpoint.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,163 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\SRTSP\SrtspSet.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,170 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\SRTSP\SrtspSet.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,217 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\symnetdrv\CONFIG_CUR.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,230 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\symnetdrv\LOCALCONFIG_CUR.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,244 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\symnetdrv\LocationMap.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,250 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\symnetdrv\SET_CUR.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,256 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\symnetdrv\SET_CUR.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,313 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\TDAD\tdadSettings.dat (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:31,325 ERROR - Caminho para o diretorio não existe C:\Users\All Users\Symantec\Symantec Endpoint Protection\CurrentVersion\Data\TDAD\tdadSettings.dat.log (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:03:46,535  INFO - Tamanho: 569,1 kB
+2020-09-01 13:03:46,539  INFO - 
+2020-09-01 13:03:46,543  INFO - Inicializando backup
+2020-09-01 13:03:48,027  INFO - Tamanho: 0 B
+2020-09-01 13:03:48,029  INFO - Tamanho: 0 B
+2020-09-01 13:03:48,309  INFO - Tamanho: 158,4 MB
+2020-09-01 13:03:48,313  INFO - 
+2020-09-01 13:03:48,318  INFO - Inicializando backup
+2020-09-01 13:03:52,445  INFO - Tamanho: 0 B
+2020-09-01 13:03:52,448  INFO - Tamanho: 0 B
+2020-09-01 13:03:52,450  INFO - Tamanho: 0 B
+2020-09-01 13:03:52,452  INFO - Tamanho: 0 B
+2020-09-01 13:03:52,454  INFO - Tamanho: 0 B
+2020-09-01 13:08:06,140  INFO - Tamanho: 279,3 GB
+2020-09-01 13:08:06,144  INFO - 
+2020-09-01 13:08:06,149  INFO - Inicializando backup
+2020-09-01 13:10:10,503 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\Cache\data_0 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:10:10,511 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\Cache\data_1 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:10:10,513 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\Cache\data_2 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:10:10,515 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\Cache\data_3 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:10:30,131 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\Cache\index (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:12:32,552 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\Current Session (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:12:32,555 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\Current Tabs (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:13:06,844 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_0 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:13:06,847 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_1 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:13:06,850 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_2 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:13:06,853 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_3 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:13:06,861 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\Default\GPUCache\index (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:14:55,699 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_0 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:14:55,702 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_1 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:14:55,709 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_2 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:14:55,711 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_3 (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:14:55,715 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\index (O arquivo já está sendo usado por outro processo)
+2020-09-01 13:14:56,085 ERROR - Caminho para o diretorio não existe C:\Users\t05807\AppData\Local\Google\Chrome\User Data\lockfile (O arquivo já está sendo usado por outro processo)

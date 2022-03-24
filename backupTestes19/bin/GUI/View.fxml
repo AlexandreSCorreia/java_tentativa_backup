@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="289.0" prefWidth="497.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.MainViewController">
+   <children>
+      <Button layoutX="341.0" layoutY="49.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="126.0" text="Procurar" textAlignment="CENTER">
+         <font>
+            <Font name="Arial Bold" size="12.0" />
+         </font>
+      </Button>
+      <Label alignment="CENTER" layoutX="-1.0" layoutY="14.0" prefHeight="17.0" prefWidth="497.0" text="TESTE" textAlignment="RIGHT" wrapText="true">
+         <font>
+            <Font name="Arial Bold" size="14.0" />
+         </font>
+      </Label>
+      <PasswordField layoutX="32.0" layoutY="49.0" prefHeight="25.0" prefWidth="297.0" promptText="Diretorio" />
+      <Button layoutX="185.0" layoutY="89.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="126.0" style="-fx-background-color: #51d326;" text="Começar" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

@@ -1,0 +1,1301 @@
+2020-03-17 00:10:47,606  INFO - Log inicializado.
+2020-03-17 00:10:47,607  INFO - =================
+2020-03-17 00:10:47,610  INFO - Criando diretório...
+2020-03-17 00:10:48,572  INFO - Diretório criado em C:\ BACKUPDESKTOP-DR2MHJ6_17_03_2020 00-10-05
+2020-03-17 00:10:48,592  INFO - Verificando:  BACKUPDESKTOP-DR2MHJ6_17_03_2020 00-10-05
+2020-03-17 00:10:48,661  INFO - Tamanho: 0 B
+2020-03-17 00:10:48,666  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,666  INFO - Verificando: $Recycle.Bin
+2020-03-17 00:10:48,667  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,668  INFO - Verificando: Arquivos de Programas
+2020-03-17 00:10:48,668  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,676  INFO - Verificando: Documents and Settings
+2020-03-17 00:10:48,679  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,683  INFO - Verificando: java-libs
+2020-03-17 00:10:48,961  INFO - Tamanho: 86,9 MB
+2020-03-17 00:10:48,962  INFO - Aprovado para fazer backup.
+2020-03-17 00:10:48,963  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,964  INFO - Verificando: OneDriveTemp
+2020-03-17 00:10:48,964  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,965  INFO - Verificando: PerfLogs
+2020-03-17 00:10:48,966  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,966  INFO - Verificando: Program Files
+2020-03-17 00:10:48,967  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,968  INFO - Verificando: Program Files (x86)
+2020-03-17 00:10:48,968  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,968  INFO - Verificando: ProgramData
+2020-03-17 00:10:48,969  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,969  INFO - Verificando: Recovery
+2020-03-17 00:10:48,970  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,971  INFO - Verificando: Senhas
+2020-03-17 00:10:48,972  INFO - Tamanho: 0 B
+2020-03-17 00:10:48,972  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,973  INFO - Verificando: System Volume Information
+2020-03-17 00:10:48,976  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,979  INFO - Verificando: Users
+2020-03-17 00:10:48,980  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,982  INFO - Verificando: Windows
+2020-03-17 00:10:48,991  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:48,993  INFO - Pasta criada em: 
+C:\ BACKUPDESKTOP-DR2MHJ6_17_03_2020 00-10-05\DiscoC\java-libs
+2020-03-17 00:10:48,994  INFO - 
+2020-03-17 00:10:48,996  INFO - Copiando pastas...
+2020-03-17 00:10:54,820  INFO - Verificando: All Users
+2020-03-17 00:10:54,861  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:54,870  INFO - Verificando: Default
+2020-03-17 00:10:54,874  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:54,875  INFO - Verificando: Default User
+2020-03-17 00:10:54,876  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:10:54,878  INFO - Verificando: MisterySpeed
+2020-03-17 00:13:03,902  INFO - Tamanho: 22,6 GB
+2020-03-17 00:13:03,903  INFO - Aprovado para fazer backup.
+2020-03-17 00:13:03,904  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:13:03,905  INFO - Verificando: Public
+2020-03-17 00:13:03,908  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:13:03,909  INFO - Verificando: Todos os Usuários
+2020-03-17 00:13:03,910  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:13:03,910  INFO - Verificando: Usuário Padrão
+2020-03-17 00:13:03,911  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:13:03,911  INFO - Copiando bookmarks...
+2020-03-17 00:13:03,965  INFO - Bookmarks salvo.
+2020-03-17 00:13:03,968  INFO - Copiando \Local\Microsoft\Outlook...
+2020-03-17 00:13:18,785  INFO - \Local\Microsoft\Outlook salvo.
+2020-03-17 00:13:18,786  INFO - Copiando Roaming\Microsoft\Outlook...
+2020-03-17 00:13:19,157  INFO - Roaming\\Microsoft\\Outlook salvo.
+2020-03-17 00:13:19,237  INFO - Copiando pastas...
+2020-03-17 00:48:18,097  INFO - Log inicializado.
+2020-03-17 00:48:18,099  INFO - =================
+2020-03-17 00:48:18,100  INFO - Criando diretório...
+2020-03-17 00:48:19,171  INFO - Diretório criado em C:\ BACKUPDESKTOP-DR2MHJ6_17_03_2020 00-48-06
+2020-03-17 00:48:19,233  INFO - Verificando:  BACKUPDESKTOP-DR2MHJ6_17_03_2020 00-48-06
+2020-03-17 00:48:19,343  INFO - Tamanho: 0 B
+2020-03-17 00:48:19,344  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,345  INFO - Verificando: $Recycle.Bin
+2020-03-17 00:48:19,346  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,347  INFO - Verificando: Arquivos de Programas
+2020-03-17 00:48:19,347  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,360  INFO - Verificando: Documents and Settings
+2020-03-17 00:48:19,361  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,361  INFO - Verificando: java-libs
+2020-03-17 00:48:19,668  INFO - Tamanho: 86,9 MB
+2020-03-17 00:48:19,669  INFO - Aprovado para fazer backup.
+2020-03-17 00:48:19,670  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,670  INFO - Verificando: OneDriveTemp
+2020-03-17 00:48:19,673  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,674  INFO - Verificando: PerfLogs
+2020-03-17 00:48:19,674  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,702  INFO - Verificando: Program Files
+2020-03-17 00:48:19,703  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,704  INFO - Verificando: Program Files (x86)
+2020-03-17 00:48:19,707  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,709  INFO - Verificando: ProgramData
+2020-03-17 00:48:19,710  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,711  INFO - Verificando: Recovery
+2020-03-17 00:48:19,711  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,712  INFO - Verificando: Senhas
+2020-03-17 00:48:19,712  INFO - Tamanho: 0 B
+2020-03-17 00:48:19,713  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,715  INFO - Verificando: System Volume Information
+2020-03-17 00:48:19,716  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,717  INFO - Verificando: Users
+2020-03-17 00:48:19,718  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,719  INFO - Verificando: Windows
+2020-03-17 00:48:19,720  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:19,722  INFO - Pasta criada em: 
+C:\ BACKUPDESKTOP-DR2MHJ6_17_03_2020 00-48-06\DiscoC\java-libs
+2020-03-17 00:48:19,723  INFO - 
+2020-03-17 00:48:19,725  INFO - Copiando pastas...
+2020-03-17 00:48:29,710  INFO - Verificando: All Users
+2020-03-17 00:48:29,719  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:29,722  INFO - Verificando: Default
+2020-03-17 00:48:29,724  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:29,727  INFO - Verificando: Default User
+2020-03-17 00:48:29,729  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:48:29,730  INFO - Verificando: MisterySpeed
+2020-03-17 00:50:27,153  INFO - Tamanho: 27,4 GB
+2020-03-17 00:50:27,155  INFO - Aprovado para fazer backup.
+2020-03-17 00:50:27,156  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:50:27,157  INFO - Verificando: Public
+2020-03-17 00:50:27,158  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:50:27,159  INFO - Verificando: Todos os Usuários
+2020-03-17 00:50:27,160  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:50:27,161  INFO - Verificando: Usuário Padrão
+2020-03-17 00:50:27,161  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 00:50:27,162  INFO - Copiando bookmarks...
+2020-03-17 00:50:27,429  INFO - Bookmarks salvo.
+2020-03-17 00:50:27,431  INFO - Copiando \Local\Microsoft\Outlook...
+2020-03-17 00:50:47,891  INFO - \Local\Microsoft\Outlook salvo.
+2020-03-17 00:50:47,921  INFO - Copiando Roaming\Microsoft\Outlook...
+2020-03-17 00:50:48,624  INFO - Roaming\\Microsoft\\Outlook salvo.
+2020-03-17 00:50:48,644  INFO - Copiando pastas...
+2020-03-17 02:09:09,062  INFO - Log inicializado.
+2020-03-17 02:09:09,065  INFO - =================
+2020-03-17 02:09:09,068  INFO - Criando diretório...
+2020-03-17 02:09:09,782  INFO - Diretório criado em C:\ BACKUPDESKTOP-DR2MHJ6_17_03_2020 02-08-55
+2020-03-17 02:09:09,922  INFO - Verificando: All Users
+2020-03-17 02:09:09,923  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 02:09:09,924  INFO - Verificando: Default
+2020-03-17 02:09:09,925  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 02:09:09,960  INFO - Verificando: Default User
+2020-03-17 02:09:09,961  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 02:09:09,962  INFO - Verificando: MisterySpeed
+2020-03-17 02:10:49,828  INFO - Tamanho: 27,4 GB
+2020-03-17 02:10:49,830  INFO - Aprovado para fazer backup.
+2020-03-17 02:10:49,831  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 02:10:49,832  INFO - Verificando: Public
+2020-03-17 02:10:49,835  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 02:10:49,836  INFO - Verificando: Todos os Usuários
+2020-03-17 02:10:49,860  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 02:10:49,861  INFO - Verificando: Usuário Padrão
+2020-03-17 02:10:49,861  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 02:10:49,862  INFO - Copiando bookmarks...
+2020-03-17 02:10:50,128  INFO - Bookmarks salvo.
+2020-03-17 02:10:50,162  INFO - Copiando \Local\Microsoft\Outlook...
+2020-03-17 02:11:05,181  INFO - \Local\Microsoft\Outlook salvo.
+2020-03-17 02:11:05,208  INFO - Copiando Roaming\Microsoft\Outlook...
+2020-03-17 02:11:05,556  INFO - Roaming\\Microsoft\\Outlook salvo.
+2020-03-17 02:11:05,580  INFO - Copiando pastas...
+2020-03-17 02:11:05,581  INFO - .android
+2020-03-17 02:11:05,582  INFO - .AndroidStudio3.6
+2020-03-17 02:11:05,583  INFO - .dotnet
+2020-03-17 02:11:05,583  INFO - .eclipse
+2020-03-17 02:11:05,598  INFO - .gradle
+2020-03-17 02:11:05,600  INFO - .m2
+2020-03-17 02:11:05,600  INFO - .p2
+2020-03-17 02:11:05,600  INFO - .tooling
+2020-03-17 02:11:05,601  INFO - 3D Objects
+2020-03-17 02:11:05,610  INFO - Ambiente de Impressão
+2020-03-17 02:11:05,611  INFO - Ambiente de Rede
+2020-03-17 02:11:05,613  INFO - AndroidStudioProjects
+2020-03-17 02:11:09,714  INFO - AppData
+2020-03-17 02:11:09,715  INFO - Configurações Locais
+2020-03-17 02:11:09,720  INFO - Contacts
+2020-03-17 02:11:09,721  INFO - Cookies
+2020-03-17 02:11:09,723  INFO - Dados de Aplicativos
+2020-03-17 02:11:09,735  INFO - Desktop
+2020-03-17 02:19:08,798  INFO - Documents
+2020-03-17 02:19:09,268  INFO - Downloads
+2020-03-17 02:28:04,289  INFO - dwhelper
+2020-03-17 02:28:23,872  INFO - eclipse
+2020-03-17 02:29:27,899  INFO - eclipse-workspace
+2020-03-17 02:30:19,939  INFO - Favorites
+2020-03-17 02:30:19,999  INFO - Links
+2020-03-17 02:30:20,000  INFO - Menu Iniciar
+2020-03-17 02:30:20,000  INFO - Meus Documentos
+2020-03-17 02:30:20,001  INFO - MicrosoftEdgeBackups
+2020-03-17 02:30:20,002  INFO - Modelos
+2020-03-17 02:30:20,002  INFO - Music
+2020-03-17 02:30:20,003  INFO - OneDrive
+2020-03-17 02:30:20,003  INFO - OneDrive - Etec Centro Paula Souza
+2020-03-17 02:30:20,003  INFO - Pictures
+2020-03-17 03:18:17,330  INFO - Recent
+2020-03-17 03:18:17,397  INFO - Saved Games
+2020-03-17 03:18:17,399  INFO - Searches
+2020-03-17 03:18:17,402  INFO - SendTo
+2020-03-17 03:18:17,421  INFO - source
+2020-03-17 03:18:17,454  INFO - Videos
+2020-03-17 03:18:17,512  INFO - 
+2020-03-17 03:18:17,513  INFO - BACKUP FINALIZADO
+2020-03-17 15:00:36,379  INFO - Log inicializado.
+2020-03-17 15:00:36,380  INFO - =================
+2020-03-17 15:00:36,380  INFO - Criando diretório...
+2020-03-17 15:00:37,471  INFO - Diretório criado em C:\ BACKUPFIELDPC_17_03_2020 15-00-30
+2020-03-17 15:00:37,526  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 15-00-30
+2020-03-17 15:00:37,527  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,527  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,528  INFO - Verificando: $Recycle.Bin
+2020-03-17 15:00:37,529  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,530  INFO - Verificando: $WINDOWS.~BT
+2020-03-17 15:00:37,530  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,531  INFO - Verificando: $Windows.~WS
+2020-03-17 15:00:37,531  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,532  INFO - Verificando: 554033
+2020-03-17 15:00:37,532  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,533  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,535  INFO - Verificando: Arquivos de Programas
+2020-03-17 15:00:37,536  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,536  INFO - Verificando: BgInfo
+2020-03-17 15:00:37,537  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,538  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,538  INFO - Verificando: Dados
+2020-03-17 15:00:37,539  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,540  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,540  INFO - Verificando: DameWare
+2020-03-17 15:00:37,744  INFO - Tamanho: 164,0 MB
+2020-03-17 15:00:37,745  INFO - Aprovado para fazer backup.
+2020-03-17 15:00:37,746  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,746  INFO - Verificando: Dell
+2020-03-17 15:00:37,764  INFO - Tamanho: 132,2 MB
+2020-03-17 15:00:37,765  INFO - Aprovado para fazer backup.
+2020-03-17 15:00:37,767  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,768  INFO - Verificando: Documents and Settings
+2020-03-17 15:00:37,769  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,771  INFO - Verificando: Drivers
+2020-03-17 15:00:37,772  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,775  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,775  INFO - Verificando: ESD
+2020-03-17 15:00:37,777  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,778  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,778  INFO - Verificando: FastCopy
+2020-03-17 15:00:37,787  INFO - Tamanho: 91,2 kB
+2020-03-17 15:00:37,788  INFO - Aprovado para fazer backup.
+2020-03-17 15:00:37,789  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,789  INFO - Verificando: Insomnia
+2020-03-17 15:00:37,852  INFO - Tamanho: 702,5 kB
+2020-03-17 15:00:37,853  INFO - Aprovado para fazer backup.
+2020-03-17 15:00:37,854  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,854  INFO - Verificando: Intel
+2020-03-17 15:00:37,855  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,855  INFO - Verificando: java-libs
+2020-03-17 15:00:37,953  INFO - Tamanho: 86,9 MB
+2020-03-17 15:00:37,954  INFO - Aprovado para fazer backup.
+2020-03-17 15:00:37,955  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,955  INFO - Verificando: OneDriveTemp
+2020-03-17 15:00:37,956  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,958  INFO - Verificando: PerfLogs
+2020-03-17 15:00:37,958  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,959  INFO - Verificando: Program Files
+2020-03-17 15:00:37,959  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,960  INFO - Verificando: Program Files (x86)
+2020-03-17 15:00:37,960  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,961  INFO - Verificando: ProgramData
+2020-03-17 15:00:37,962  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,963  INFO - Verificando: Recovery
+2020-03-17 15:00:37,964  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,964  INFO - Verificando: SQLServer2017Media
+2020-03-17 15:00:37,972  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,973  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,974  INFO - Verificando: System Volume Information
+2020-03-17 15:00:37,974  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,975  INFO - Verificando: Tassia
+2020-03-17 15:00:37,975  INFO - Tamanho: 0 B
+2020-03-17 15:00:37,976  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,978  INFO - Verificando: Users
+2020-03-17 15:00:37,979  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,979  INFO - Verificando: Windows
+2020-03-17 15:00:37,982  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:37,982  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 15-00-30\DiscoC\DameWare
+2020-03-17 15:00:37,983  INFO - 
+2020-03-17 15:00:37,983  INFO - Copiando pastas...
+2020-03-17 15:00:37,984  INFO - DameWare Mini Remote Control 9.0 (Portable)
+2020-03-17 15:00:41,899  INFO - DameWare Remote Support 12.0.4.5007 + Keygen [SadeemPC]
+2020-03-17 15:00:42,976  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 15-00-30\DiscoC\Dell
+2020-03-17 15:00:42,977  INFO - 
+2020-03-17 15:00:42,977  INFO - Copiando pastas...
+2020-03-17 15:00:42,978  INFO - Drivers
+2020-03-17 15:00:43,627  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 15-00-30\DiscoC\FastCopy
+2020-03-17 15:00:43,628  INFO - 
+2020-03-17 15:00:43,628  INFO - Copiando pastas...
+2020-03-17 15:00:43,629  INFO - doc
+2020-03-17 15:00:43,709  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 15-00-30\DiscoC\Insomnia
+2020-03-17 15:00:43,710  INFO - 
+2020-03-17 15:00:43,711  INFO - Copiando pastas...
+2020-03-17 15:00:43,711  INFO - Insomnia (alternativo)
+2020-03-17 15:00:44,793  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 15-00-30\DiscoC\java-libs
+2020-03-17 15:00:44,795  INFO - 
+2020-03-17 15:00:44,796  INFO - Copiando pastas...
+2020-03-17 15:00:44,801  INFO - javafx-sdk-11.0.2
+2020-03-17 15:00:48,124  INFO - jdbc-connector
+2020-03-17 15:00:48,464  INFO - Verificando: 554033
+2020-03-17 15:00:48,671  INFO - Tamanho: 2,7 MB
+2020-03-17 15:00:48,671  INFO - Aprovado para fazer backup.
+2020-03-17 15:00:48,672  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,673  INFO - Verificando: 554228
+2020-03-17 15:00:48,674  INFO - Tamanho: 0 B
+2020-03-17 15:00:48,675  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,675  INFO - Verificando: Administrador
+2020-03-17 15:00:48,677  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,677  INFO - Verificando: All Users
+2020-03-17 15:00:48,678  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,678  INFO - Verificando: Default
+2020-03-17 15:00:48,679  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,679  INFO - Verificando: Default User
+2020-03-17 15:00:48,680  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,680  INFO - Verificando: Lactalis
+2020-03-17 15:00:48,681  INFO - Tamanho: 0 B
+2020-03-17 15:00:48,681  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,682  INFO - Verificando: Public
+2020-03-17 15:00:48,682  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,683  INFO - Verificando: t00591
+2020-03-17 15:00:48,683  INFO - Tamanho: 0 B
+2020-03-17 15:00:48,684  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,685  INFO - Verificando: t04693
+2020-03-17 15:00:48,685  INFO - Tamanho: 0 B
+2020-03-17 15:00:48,686  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,699  INFO - Verificando: t05147
+2020-03-17 15:00:48,699  INFO - Tamanho: 0 B
+2020-03-17 15:00:48,700  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,701  INFO - Verificando: t05355
+2020-03-17 15:00:48,701  INFO - Tamanho: 0 B
+2020-03-17 15:00:48,702  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,702  INFO - Verificando: t05799
+2020-03-17 15:00:48,702  INFO - Tamanho: 0 B
+2020-03-17 15:00:48,703  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:00:48,703  INFO - Verificando: t05807
+2020-03-17 15:01:00,787  INFO - Tamanho: 50,6 GB
+2020-03-17 15:01:00,788  INFO - Aprovado para fazer backup.
+2020-03-17 15:01:00,788  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:01:00,789  INFO - Verificando: t05817
+2020-03-17 15:01:00,789  INFO - Tamanho: 0 B
+2020-03-17 15:01:00,790  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:01:00,790  INFO - Verificando: Todos os Usuários
+2020-03-17 15:01:00,791  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:01:00,791  INFO - Verificando: Usuário Padrão
+2020-03-17 15:01:00,792  INFO - Está na lista de perfis que o backup não será feito.
+2020-03-17 15:01:00,853  INFO - Copiando bookmarks...
+2020-03-17 15:01:00,903  INFO - Bookmarks salvo.
+2020-03-17 15:01:00,904  INFO - Não arquivo Outlook para salvar! 
+C:\Users\554033\AppData\Local\Microsoft\Outlook
+2020-03-17 15:01:00,904  INFO - Não arquivo Outlook para salvar! 
+C:\Users\554033\AppData\Roaming\Microsoft\Outlook
+2020-03-17 15:01:00,909  INFO - Copiando pastas...
+2020-03-17 15:01:00,910  INFO - 3D Objects
+2020-03-17 15:01:00,910  INFO - AppData
+2020-03-17 15:01:00,911  INFO - Application Data
+2020-03-17 15:01:00,911  INFO - Contacts
+2020-03-17 15:01:00,912  INFO - Cookies
+2020-03-17 15:01:00,912  INFO - Desktop
+2020-03-17 15:01:01,069  INFO - Documents
+2020-03-17 15:01:01,086  INFO - Downloads
+2020-03-17 15:01:01,086  INFO - Favorites
+2020-03-17 15:01:01,087  INFO - IntelGraphicsProfiles
+2020-03-17 15:01:01,087  INFO - Links
+2020-03-17 15:01:01,088  INFO - Local Settings
+2020-03-17 15:01:01,089  INFO - MicrosoftEdgeBackups
+2020-03-17 15:01:01,089  INFO - Music
+2020-03-17 15:01:01,090  INFO - My Documents
+2020-03-17 15:01:01,090  INFO - NetHood
+2020-03-17 15:01:01,091  INFO - OneDrive
+2020-03-17 15:01:01,091  INFO - Pictures
+2020-03-17 15:01:01,102  INFO - PrintHood
+2020-03-17 15:01:01,103  INFO - Recent
+2020-03-17 15:01:01,104  INFO - Saved Games
+2020-03-17 15:01:01,104  INFO - Searches
+2020-03-17 15:01:01,105  INFO - SendTo
+2020-03-17 15:01:01,106  INFO - Start Menu
+2020-03-17 15:01:01,106  INFO - Templates
+2020-03-17 15:01:01,107  INFO - Videos
+2020-03-17 15:01:01,136  INFO - Copiando bookmarks...
+2020-03-17 15:01:01,169  INFO - Bookmarks salvo.
+2020-03-17 15:01:01,170  INFO - Copiando \Local\Microsoft\Outlook...
+2020-03-17 15:01:02,539  INFO - \Local\Microsoft\Outlook salvo.
+2020-03-17 15:01:02,540  INFO - Copiando Roaming\Microsoft\Outlook...
+2020-03-17 15:01:02,686  INFO - Roaming\\Microsoft\\Outlook salvo.
+2020-03-17 15:01:02,702  INFO - Copiando pastas...
+2020-03-17 15:01:02,702  INFO - .eclipse
+2020-03-17 15:01:02,703  INFO - .gradle
+2020-03-17 15:01:02,704  INFO - .m2
+2020-03-17 15:01:02,704  INFO - .p2
+2020-03-17 15:01:02,705  INFO - .tooling
+2020-03-17 15:01:02,705  INFO - .VirtualBox
+2020-03-17 15:01:02,706  INFO - 3D Objects
+2020-03-17 15:01:02,707  INFO - AppData
+2020-03-17 15:01:02,707  INFO - Application Data
+2020-03-17 15:01:02,708  INFO - Contacts
+2020-03-17 15:01:02,709  INFO - Cookies
+2020-03-17 15:01:02,709  INFO - Desktop
+2020-03-17 15:14:26,593  INFO - Documents
+2020-03-17 15:14:26,624  INFO - Downloads
+2020-03-17 15:18:21,063  INFO - eclipse
+2020-03-17 15:18:57,557  INFO - eclipse-workspace
+2020-03-17 15:19:09,624  INFO - Favorites
+2020-03-17 15:19:09,637  INFO - IntelGraphicsProfiles
+2020-03-17 15:19:09,638  INFO - Links
+2020-03-17 15:19:09,638  INFO - Local Settings
+2020-03-17 15:19:09,639  INFO - MicrosoftEdgeBackups
+2020-03-17 15:19:09,639  INFO - Music
+2020-03-17 15:19:09,640  INFO - My Documents
+2020-03-17 15:19:09,640  INFO - NetHood
+2020-03-17 15:19:09,673  INFO - OneDrive
+2020-03-17 15:19:09,674  INFO - OneDrive - Lactalis Do Brasil - Comercio, Importação
+2020-03-17 15:19:09,674  INFO - Pictures
+2020-03-17 15:19:09,680  INFO - PrintHood
+2020-03-17 15:19:09,681  INFO - Recent
+2020-03-17 15:19:09,681  INFO - Saved Games
+2020-03-17 15:19:09,682  INFO - Searches
+2020-03-17 15:19:09,682  INFO - SendTo
+2020-03-17 15:19:09,687  INFO - Start Menu
+2020-03-17 15:19:09,687  INFO - Templates
+2020-03-17 15:19:09,688  INFO - Videos
+2020-03-17 15:19:09,691  INFO - VirtualBox VMs
+2020-03-17 15:19:09,692  INFO - 
+2020-03-17 15:19:09,693  INFO - BACKUP FINALIZADO
+2020-03-17 16:51:32,244  INFO - Log inicializado.
+2020-03-17 16:51:32,245  INFO - =================
+2020-03-17 16:51:32,245  INFO - Criando diretório...
+2020-03-17 16:58:28,594  INFO - Log inicializado.
+2020-03-17 16:58:28,595  INFO - =================
+2020-03-17 16:58:28,595  INFO - Criando diretório...
+2020-03-17 17:22:27,189  INFO - Log inicializado.
+2020-03-17 17:22:27,191  INFO - =================
+2020-03-17 17:22:27,192  INFO - Criando diretório...
+2020-03-17 17:22:27,849  INFO - Diretório criado em C:\ BACKUPFIELDPC_17_03_2020 17-22-20
+2020-03-17 17:22:27,854  INFO - Verificando Disco Local (C:)..
+2020-03-17 17:22:28,016  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-22-20
+2020-03-17 17:22:28,033  INFO - Tamanho: 0 B
+2020-03-17 17:22:28,034  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,035  INFO - Verificando: $Recycle.Bin
+2020-03-17 17:22:28,035  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,036  INFO - Verificando: $WINDOWS.~BT
+2020-03-17 17:22:28,041  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,041  INFO - Verificando: $Windows.~WS
+2020-03-17 17:22:28,042  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,042  INFO - Verificando: 554033
+2020-03-17 17:22:28,248  INFO - Tamanho: 0 B
+2020-03-17 17:22:28,249  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,250  INFO - Verificando: Arquivos de Programas
+2020-03-17 17:22:28,250  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,251  INFO - Verificando: BgInfo
+2020-03-17 17:22:28,251  INFO - Tamanho: 0 B
+2020-03-17 17:22:28,252  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,252  INFO - Verificando: Dados
+2020-03-17 17:22:28,447  INFO - Tamanho: 0 B
+2020-03-17 17:22:28,448  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,449  INFO - Verificando: DameWare
+2020-03-17 17:22:28,700  INFO - Tamanho: 164,0 MB
+2020-03-17 17:22:28,701  INFO - Aprovado para fazer backup.
+2020-03-17 17:22:28,701  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,702  INFO - Verificando: Dell
+2020-03-17 17:22:28,714  INFO - Tamanho: 132,2 MB
+2020-03-17 17:22:28,715  INFO - Aprovado para fazer backup.
+2020-03-17 17:22:28,716  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,716  INFO - Verificando: Documents and Settings
+2020-03-17 17:22:28,717  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,718  INFO - Verificando: Drivers
+2020-03-17 17:22:28,797  INFO - Tamanho: 0 B
+2020-03-17 17:22:28,798  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,798  INFO - Verificando: ESD
+2020-03-17 17:22:28,800  INFO - Tamanho: 0 B
+2020-03-17 17:22:28,800  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:28,801  INFO - Verificando: FastCopy
+2020-03-17 17:22:29,098  INFO - Tamanho: 91,2 kB
+2020-03-17 17:22:29,099  INFO - Aprovado para fazer backup.
+2020-03-17 17:22:29,099  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,138  INFO - Verificando: Insomnia
+2020-03-17 17:22:29,251  INFO - Tamanho: 702,5 kB
+2020-03-17 17:22:29,252  INFO - Aprovado para fazer backup.
+2020-03-17 17:22:29,252  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,253  INFO - Verificando: Intel
+2020-03-17 17:22:29,253  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,254  INFO - Verificando: java-libs
+2020-03-17 17:22:29,930  INFO - Tamanho: 86,9 MB
+2020-03-17 17:22:29,930  INFO - Aprovado para fazer backup.
+2020-03-17 17:22:29,931  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,931  INFO - Verificando: OneDriveTemp
+2020-03-17 17:22:29,931  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,933  INFO - Verificando: PerfLogs
+2020-03-17 17:22:29,933  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,933  INFO - Verificando: Program Files
+2020-03-17 17:22:29,933  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,934  INFO - Verificando: Program Files (x86)
+2020-03-17 17:22:29,934  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,934  INFO - Verificando: ProgramData
+2020-03-17 17:22:29,935  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,935  INFO - Verificando: Recovery
+2020-03-17 17:22:29,936  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:29,936  INFO - Verificando: SQLServer2017Media
+2020-03-17 17:22:30,063  INFO - Tamanho: 0 B
+2020-03-17 17:22:30,064  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:30,065  INFO - Verificando: System Volume Information
+2020-03-17 17:22:30,065  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:30,066  INFO - Verificando: Tassia
+2020-03-17 17:22:30,221  INFO - Tamanho: 0 B
+2020-03-17 17:22:30,222  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:30,222  INFO - Verificando: Users
+2020-03-17 17:22:30,223  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:30,223  INFO - Verificando: Windows
+2020-03-17 17:22:30,224  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:22:30,230  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-22-20\DiscoC\DameWare
+2020-03-17 17:22:30,231  INFO - 
+2020-03-17 17:22:30,231  INFO - Copiando pastas...
+2020-03-17 17:22:48,638  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-22-20\DiscoC\Dell
+2020-03-17 17:22:48,639  INFO - 
+2020-03-17 17:22:48,640  INFO - Copiando pastas...
+2020-03-17 17:23:35,997  INFO - Log inicializado.
+2020-03-17 17:23:35,998  INFO - =================
+2020-03-17 17:23:35,999  INFO - Criando diretório...
+2020-03-17 17:23:37,179  INFO - Diretório criado em C:\ BACKUPFIELDPC_17_03_2020 17-23-19
+2020-03-17 17:23:37,180  INFO - Verificando Disco Local (C:)..
+2020-03-17 17:23:37,182  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-23-19
+2020-03-17 17:23:37,201  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,202  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,204  INFO - 
+2020-03-17 17:23:37,205  INFO - Verificando: $Recycle.Bin
+2020-03-17 17:23:37,209  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,210  INFO - 
+2020-03-17 17:23:37,211  INFO - Verificando: $WINDOWS.~BT
+2020-03-17 17:23:37,211  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,212  INFO - 
+2020-03-17 17:23:37,212  INFO - Verificando: $Windows.~WS
+2020-03-17 17:23:37,212  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,213  INFO - 
+2020-03-17 17:23:37,213  INFO - Verificando: 554033
+2020-03-17 17:23:37,217  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,217  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,218  INFO - 
+2020-03-17 17:23:37,218  INFO - Verificando: Arquivos de Programas
+2020-03-17 17:23:37,219  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,219  INFO - 
+2020-03-17 17:23:37,220  INFO - Verificando: BgInfo
+2020-03-17 17:23:37,220  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,221  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,221  INFO - 
+2020-03-17 17:23:37,222  INFO - Verificando: Dados
+2020-03-17 17:23:37,222  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,223  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,224  INFO - 
+2020-03-17 17:23:37,224  INFO - Verificando: DameWare
+2020-03-17 17:23:37,265  INFO - Tamanho: 164,0 MB
+2020-03-17 17:23:37,265  INFO - Aprovado para fazer backup.
+2020-03-17 17:23:37,268  INFO - 
+2020-03-17 17:23:37,269  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,270  INFO - 
+2020-03-17 17:23:37,272  INFO - Verificando: Dell
+2020-03-17 17:23:37,274  INFO - Tamanho: 132,2 MB
+2020-03-17 17:23:37,275  INFO - Aprovado para fazer backup.
+2020-03-17 17:23:37,276  INFO - 
+2020-03-17 17:23:37,277  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,277  INFO - 
+2020-03-17 17:23:37,279  INFO - Verificando: Documents and Settings
+2020-03-17 17:23:37,280  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,281  INFO - 
+2020-03-17 17:23:37,282  INFO - Verificando: Drivers
+2020-03-17 17:23:37,283  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,284  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,284  INFO - 
+2020-03-17 17:23:37,284  INFO - Verificando: ESD
+2020-03-17 17:23:37,285  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,285  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,286  INFO - 
+2020-03-17 17:23:37,287  INFO - Verificando: FastCopy
+2020-03-17 17:23:37,289  INFO - Tamanho: 91,2 kB
+2020-03-17 17:23:37,290  INFO - Aprovado para fazer backup.
+2020-03-17 17:23:37,291  INFO - 
+2020-03-17 17:23:37,292  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,293  INFO - 
+2020-03-17 17:23:37,294  INFO - Verificando: Insomnia
+2020-03-17 17:23:37,326  INFO - Tamanho: 702,5 kB
+2020-03-17 17:23:37,327  INFO - Aprovado para fazer backup.
+2020-03-17 17:23:37,328  INFO - 
+2020-03-17 17:23:37,328  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,329  INFO - 
+2020-03-17 17:23:37,331  INFO - Verificando: Intel
+2020-03-17 17:23:37,331  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,334  INFO - 
+2020-03-17 17:23:37,341  INFO - Verificando: java-libs
+2020-03-17 17:23:37,366  INFO - Tamanho: 86,9 MB
+2020-03-17 17:23:37,367  INFO - Aprovado para fazer backup.
+2020-03-17 17:23:37,368  INFO - 
+2020-03-17 17:23:37,368  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,370  INFO - 
+2020-03-17 17:23:37,372  INFO - Verificando: OneDriveTemp
+2020-03-17 17:23:37,373  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,374  INFO - 
+2020-03-17 17:23:37,375  INFO - Verificando: PerfLogs
+2020-03-17 17:23:37,375  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,376  INFO - 
+2020-03-17 17:23:37,377  INFO - Verificando: Program Files
+2020-03-17 17:23:37,378  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,379  INFO - 
+2020-03-17 17:23:37,380  INFO - Verificando: Program Files (x86)
+2020-03-17 17:23:37,381  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,381  INFO - 
+2020-03-17 17:23:37,382  INFO - Verificando: ProgramData
+2020-03-17 17:23:37,382  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,382  INFO - 
+2020-03-17 17:23:37,383  INFO - Verificando: Recovery
+2020-03-17 17:23:37,383  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,384  INFO - 
+2020-03-17 17:23:37,384  INFO - Verificando: SQLServer2017Media
+2020-03-17 17:23:37,385  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,385  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,386  INFO - 
+2020-03-17 17:23:37,386  INFO - Verificando: System Volume Information
+2020-03-17 17:23:37,387  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,387  INFO - 
+2020-03-17 17:23:37,388  INFO - Verificando: Tassia
+2020-03-17 17:23:37,388  INFO - Tamanho: 0 B
+2020-03-17 17:23:37,388  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,388  INFO - 
+2020-03-17 17:23:37,388  INFO - Verificando: Users
+2020-03-17 17:23:37,389  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,390  INFO - 
+2020-03-17 17:23:37,390  INFO - Verificando: Windows
+2020-03-17 17:23:37,391  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:23:37,391  INFO - 
+2020-03-17 17:23:37,410  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19\DiscoC\DameWare
+2020-03-17 17:23:37,412  INFO - 
+2020-03-17 17:23:37,413  INFO - Copiando pastas...
+2020-03-17 17:23:40,454  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19\DiscoC\Dell
+2020-03-17 17:23:40,456  INFO - 
+2020-03-17 17:23:40,456  INFO - Copiando pastas...
+2020-03-17 17:23:46,994  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19\DiscoC\FastCopy
+2020-03-17 17:23:46,995  INFO - 
+2020-03-17 17:23:46,995  INFO - Copiando pastas...
+2020-03-17 17:23:47,320  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19\DiscoC\Insomnia
+2020-03-17 17:23:47,320  INFO - 
+2020-03-17 17:23:47,321  INFO - Copiando pastas...
+2020-03-17 17:23:47,989  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19\DiscoC\java-libs
+2020-03-17 17:23:47,989  INFO - 
+2020-03-17 17:23:47,990  INFO - Copiando pastas...
+2020-03-17 17:23:58,514  INFO - Procurando Perfis de Usuários...
+2020-03-17 17:23:58,548  INFO - Verificando: 554033
+2020-03-17 17:24:00,283  INFO - Tamanho: 2,7 MB
+2020-03-17 17:24:00,284  INFO - Aprovado para fazer backup.
+2020-03-17 17:24:00,284  INFO - 
+2020-03-17 17:24:00,284  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,285  INFO - 
+2020-03-17 17:24:00,285  INFO - Verificando: 554228
+2020-03-17 17:24:00,286  INFO - Tamanho: 0 B
+2020-03-17 17:24:00,286  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,286  INFO - 
+2020-03-17 17:24:00,287  INFO - Verificando: Administrador
+2020-03-17 17:24:00,287  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,287  INFO - 
+2020-03-17 17:24:00,287  INFO - Verificando: All Users
+2020-03-17 17:24:00,287  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,288  INFO - 
+2020-03-17 17:24:00,288  INFO - Verificando: Default
+2020-03-17 17:24:00,289  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,289  INFO - 
+2020-03-17 17:24:00,289  INFO - Verificando: Default User
+2020-03-17 17:24:00,290  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,290  INFO - 
+2020-03-17 17:24:00,291  INFO - Verificando: Lactalis
+2020-03-17 17:24:00,291  INFO - Tamanho: 0 B
+2020-03-17 17:24:00,292  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,292  INFO - 
+2020-03-17 17:24:00,292  INFO - Verificando: Public
+2020-03-17 17:24:00,293  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,293  INFO - 
+2020-03-17 17:24:00,294  INFO - Verificando: t00591
+2020-03-17 17:24:00,294  INFO - Tamanho: 0 B
+2020-03-17 17:24:00,304  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,305  INFO - 
+2020-03-17 17:24:00,305  INFO - Verificando: t04693
+2020-03-17 17:24:00,306  INFO - Tamanho: 0 B
+2020-03-17 17:24:00,306  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,307  INFO - 
+2020-03-17 17:24:00,307  INFO - Verificando: t05147
+2020-03-17 17:24:00,308  INFO - Tamanho: 0 B
+2020-03-17 17:24:00,309  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,309  INFO - 
+2020-03-17 17:24:00,310  INFO - Verificando: t05355
+2020-03-17 17:24:00,310  INFO - Tamanho: 0 B
+2020-03-17 17:24:00,311  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,311  INFO - 
+2020-03-17 17:24:00,312  INFO - Verificando: t05799
+2020-03-17 17:24:00,312  INFO - Tamanho: 0 B
+2020-03-17 17:24:00,313  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:24:00,313  INFO - 
+2020-03-17 17:24:00,314  INFO - Verificando: t05807
+2020-03-17 17:26:07,732  INFO - Log inicializado.
+2020-03-17 17:26:07,733  INFO - =================
+2020-03-17 17:26:07,734  INFO - Criando diretório...
+2020-03-17 17:26:08,281  INFO - Diretório criado em C:\ BACKUPFIELDPC_17_03_2020 17-23-19 BACKUPFIELDPC_17_03_2020 17-25-57
+2020-03-17 17:26:08,282  INFO - ==============================
+2020-03-17 17:26:08,283  INFO - Verificando Disco Local (C:)..
+2020-03-17 17:26:08,283  INFO - ==============================
+2020-03-17 17:26:08,292  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-23-19
+2020-03-17 17:26:08,606  INFO - Tamanho: 383,8 MB
+2020-03-17 17:26:08,606  INFO - Aprovado para fazer backup.
+2020-03-17 17:26:08,607  INFO - 
+2020-03-17 17:26:08,607  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,607  INFO - 
+2020-03-17 17:26:08,608  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-23-19 BACKUPFIELDPC_17_03_2020 17-25-57
+2020-03-17 17:26:08,608  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,609  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,609  INFO - 
+2020-03-17 17:26:08,611  INFO - Verificando: $Recycle.Bin
+2020-03-17 17:26:08,612  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,612  INFO - 
+2020-03-17 17:26:08,613  INFO - Verificando: $WINDOWS.~BT
+2020-03-17 17:26:08,613  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,613  INFO - 
+2020-03-17 17:26:08,614  INFO - Verificando: $Windows.~WS
+2020-03-17 17:26:08,615  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,616  INFO - 
+2020-03-17 17:26:08,617  INFO - Verificando: 554033
+2020-03-17 17:26:08,628  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,631  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,633  INFO - 
+2020-03-17 17:26:08,634  INFO - Verificando: Arquivos de Programas
+2020-03-17 17:26:08,635  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,635  INFO - 
+2020-03-17 17:26:08,636  INFO - Verificando: BgInfo
+2020-03-17 17:26:08,636  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,637  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,637  INFO - 
+2020-03-17 17:26:08,638  INFO - Verificando: Dados
+2020-03-17 17:26:08,639  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,639  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,640  INFO - 
+2020-03-17 17:26:08,640  INFO - Verificando: DameWare
+2020-03-17 17:26:08,648  INFO - Tamanho: 164,0 MB
+2020-03-17 17:26:08,652  INFO - Aprovado para fazer backup.
+2020-03-17 17:26:08,654  INFO - 
+2020-03-17 17:26:08,654  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,655  INFO - 
+2020-03-17 17:26:08,656  INFO - Verificando: Dell
+2020-03-17 17:26:08,657  INFO - Tamanho: 132,2 MB
+2020-03-17 17:26:08,658  INFO - Aprovado para fazer backup.
+2020-03-17 17:26:08,661  INFO - 
+2020-03-17 17:26:08,662  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,663  INFO - 
+2020-03-17 17:26:08,664  INFO - Verificando: Documents and Settings
+2020-03-17 17:26:08,665  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,666  INFO - 
+2020-03-17 17:26:08,667  INFO - Verificando: Drivers
+2020-03-17 17:26:08,668  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,669  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,669  INFO - 
+2020-03-17 17:26:08,670  INFO - Verificando: ESD
+2020-03-17 17:26:08,671  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,672  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,672  INFO - 
+2020-03-17 17:26:08,673  INFO - Verificando: FastCopy
+2020-03-17 17:26:08,688  INFO - Tamanho: 91,2 kB
+2020-03-17 17:26:08,691  INFO - Aprovado para fazer backup.
+2020-03-17 17:26:08,691  INFO - 
+2020-03-17 17:26:08,692  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,693  INFO - 
+2020-03-17 17:26:08,693  INFO - Verificando: Insomnia
+2020-03-17 17:26:08,694  INFO - Tamanho: 702,5 kB
+2020-03-17 17:26:08,694  INFO - Aprovado para fazer backup.
+2020-03-17 17:26:08,695  INFO - 
+2020-03-17 17:26:08,695  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,695  INFO - 
+2020-03-17 17:26:08,696  INFO - Verificando: Intel
+2020-03-17 17:26:08,699  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,701  INFO - 
+2020-03-17 17:26:08,710  INFO - Verificando: java-libs
+2020-03-17 17:26:08,718  INFO - Tamanho: 86,9 MB
+2020-03-17 17:26:08,718  INFO - Aprovado para fazer backup.
+2020-03-17 17:26:08,719  INFO - 
+2020-03-17 17:26:08,719  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,720  INFO - 
+2020-03-17 17:26:08,720  INFO - Verificando: OneDriveTemp
+2020-03-17 17:26:08,721  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,721  INFO - 
+2020-03-17 17:26:08,722  INFO - Verificando: PerfLogs
+2020-03-17 17:26:08,722  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,723  INFO - 
+2020-03-17 17:26:08,723  INFO - Verificando: Program Files
+2020-03-17 17:26:08,724  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,728  INFO - 
+2020-03-17 17:26:08,731  INFO - Verificando: Program Files (x86)
+2020-03-17 17:26:08,732  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,734  INFO - 
+2020-03-17 17:26:08,734  INFO - Verificando: ProgramData
+2020-03-17 17:26:08,735  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,735  INFO - 
+2020-03-17 17:26:08,736  INFO - Verificando: Recovery
+2020-03-17 17:26:08,736  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,739  INFO - 
+2020-03-17 17:26:08,741  INFO - Verificando: SQLServer2017Media
+2020-03-17 17:26:08,741  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,742  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,743  INFO - 
+2020-03-17 17:26:08,743  INFO - Verificando: System Volume Information
+2020-03-17 17:26:08,744  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,744  INFO - 
+2020-03-17 17:26:08,745  INFO - Verificando: Tassia
+2020-03-17 17:26:08,746  INFO - Tamanho: 0 B
+2020-03-17 17:26:08,746  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,747  INFO - 
+2020-03-17 17:26:08,747  INFO - Verificando: Users
+2020-03-17 17:26:08,748  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,748  INFO - 
+2020-03-17 17:26:08,749  INFO - Verificando: Windows
+2020-03-17 17:26:08,752  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:26:08,755  INFO - 
+2020-03-17 17:26:08,758  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19 BACKUPFIELDPC_17_03_2020 17-25-57\DiscoC\ BACKUPFIELDPC_17_03_2020 17-23-19
+2020-03-17 17:26:08,758  INFO - 
+2020-03-17 17:26:08,759  INFO - Copiando pastas...
+2020-03-17 17:26:41,966  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19 BACKUPFIELDPC_17_03_2020 17-25-57\DiscoC\DameWare
+2020-03-17 17:26:41,966  INFO - 
+2020-03-17 17:26:41,972  INFO - Copiando pastas...
+2020-03-17 17:27:02,253  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-23-19 BACKUPFIELDPC_17_03_2020 17-25-57\DiscoC\Dell
+2020-03-17 17:27:02,254  INFO - 
+2020-03-17 17:27:02,254  INFO - Copiando pastas...
+2020-03-17 17:27:34,474  INFO - Log inicializado.
+2020-03-17 17:27:34,475  INFO - =================
+2020-03-17 17:27:34,475  INFO - Criando diretório...
+2020-03-17 17:27:35,318  INFO - Diretório criado em C:\ BACKUPFIELDPC_17_03_2020 17-27-27
+2020-03-17 17:27:35,323  INFO - ==============================
+2020-03-17 17:27:35,324  INFO - Verificando Disco Local (C:)..
+2020-03-17 17:27:35,324  INFO - ==============================
+2020-03-17 17:27:35,425  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-27-27
+2020-03-17 17:27:35,470  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,470  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,471  INFO - 
+2020-03-17 17:27:35,471  INFO - Verificando: $Recycle.Bin
+2020-03-17 17:27:35,473  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,473  INFO - 
+2020-03-17 17:27:35,473  INFO - Verificando: $WINDOWS.~BT
+2020-03-17 17:27:35,474  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,474  INFO - 
+2020-03-17 17:27:35,475  INFO - Verificando: $Windows.~WS
+2020-03-17 17:27:35,475  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,476  INFO - 
+2020-03-17 17:27:35,476  INFO - Verificando: 554033
+2020-03-17 17:27:35,503  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,506  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,507  INFO - 
+2020-03-17 17:27:35,509  INFO - Verificando: Arquivos de Programas
+2020-03-17 17:27:35,510  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,510  INFO - 
+2020-03-17 17:27:35,511  INFO - Verificando: BgInfo
+2020-03-17 17:27:35,511  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,516  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,518  INFO - 
+2020-03-17 17:27:35,519  INFO - Verificando: Dados
+2020-03-17 17:27:35,521  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,521  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,523  INFO - 
+2020-03-17 17:27:35,524  INFO - Verificando: DameWare
+2020-03-17 17:27:35,552  INFO - Tamanho: 164,0 MB
+2020-03-17 17:27:35,553  INFO - Aprovado para fazer backup.
+2020-03-17 17:27:35,553  INFO - 
+2020-03-17 17:27:35,554  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,554  INFO - 
+2020-03-17 17:27:35,555  INFO - Verificando: Dell
+2020-03-17 17:27:35,555  INFO - Tamanho: 132,2 MB
+2020-03-17 17:27:35,556  INFO - Aprovado para fazer backup.
+2020-03-17 17:27:35,556  INFO - 
+2020-03-17 17:27:35,556  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,557  INFO - 
+2020-03-17 17:27:35,557  INFO - Verificando: Documents and Settings
+2020-03-17 17:27:35,558  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,558  INFO - 
+2020-03-17 17:27:35,561  INFO - Verificando: Drivers
+2020-03-17 17:27:35,563  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,563  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,565  INFO - 
+2020-03-17 17:27:35,566  INFO - Verificando: ESD
+2020-03-17 17:27:35,566  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,566  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,567  INFO - 
+2020-03-17 17:27:35,567  INFO - Verificando: FastCopy
+2020-03-17 17:27:35,568  INFO - Tamanho: 91,2 kB
+2020-03-17 17:27:35,569  INFO - Aprovado para fazer backup.
+2020-03-17 17:27:35,570  INFO - 
+2020-03-17 17:27:35,570  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,571  INFO - 
+2020-03-17 17:27:35,571  INFO - Verificando: Insomnia
+2020-03-17 17:27:35,584  INFO - Tamanho: 702,5 kB
+2020-03-17 17:27:35,589  INFO - Aprovado para fazer backup.
+2020-03-17 17:27:35,590  INFO - 
+2020-03-17 17:27:35,591  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,592  INFO - 
+2020-03-17 17:27:35,592  INFO - Verificando: Intel
+2020-03-17 17:27:35,593  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,593  INFO - 
+2020-03-17 17:27:35,594  INFO - Verificando: java-libs
+2020-03-17 17:27:35,602  INFO - Tamanho: 86,9 MB
+2020-03-17 17:27:35,606  INFO - Aprovado para fazer backup.
+2020-03-17 17:27:35,607  INFO - 
+2020-03-17 17:27:35,608  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,608  INFO - 
+2020-03-17 17:27:35,609  INFO - Verificando: OneDriveTemp
+2020-03-17 17:27:35,609  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,609  INFO - 
+2020-03-17 17:27:35,610  INFO - Verificando: PerfLogs
+2020-03-17 17:27:35,610  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,611  INFO - 
+2020-03-17 17:27:35,611  INFO - Verificando: Program Files
+2020-03-17 17:27:35,611  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,612  INFO - 
+2020-03-17 17:27:35,612  INFO - Verificando: Program Files (x86)
+2020-03-17 17:27:35,613  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,613  INFO - 
+2020-03-17 17:27:35,614  INFO - Verificando: ProgramData
+2020-03-17 17:27:35,614  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,615  INFO - 
+2020-03-17 17:27:35,615  INFO - Verificando: Recovery
+2020-03-17 17:27:35,618  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,619  INFO - 
+2020-03-17 17:27:35,620  INFO - Verificando: SQLServer2017Media
+2020-03-17 17:27:35,620  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,621  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,622  INFO - 
+2020-03-17 17:27:35,622  INFO - Verificando: System Volume Information
+2020-03-17 17:27:35,623  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,623  INFO - 
+2020-03-17 17:27:35,624  INFO - Verificando: Tassia
+2020-03-17 17:27:35,624  INFO - Tamanho: 0 B
+2020-03-17 17:27:35,625  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,625  INFO - 
+2020-03-17 17:27:35,626  INFO - Verificando: Users
+2020-03-17 17:27:35,626  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,628  INFO - 
+2020-03-17 17:27:35,629  INFO - Verificando: Windows
+2020-03-17 17:27:35,629  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:35,630  INFO - 
+2020-03-17 17:27:35,631  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-27-27\DiscoC\DameWare
+2020-03-17 17:27:35,632  INFO - 
+2020-03-17 17:27:35,638  INFO - Copiando pastas...
+2020-03-17 17:27:37,701  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-27-27\DiscoC\Dell
+2020-03-17 17:27:37,703  INFO - 
+2020-03-17 17:27:37,703  INFO - Copiando pastas...
+2020-03-17 17:27:44,600  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-27-27\DiscoC\FastCopy
+2020-03-17 17:27:44,602  INFO - 
+2020-03-17 17:27:44,602  INFO - Copiando pastas...
+2020-03-17 17:27:44,915  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-27-27\DiscoC\Insomnia
+2020-03-17 17:27:44,916  INFO - 
+2020-03-17 17:27:44,917  INFO - Copiando pastas...
+2020-03-17 17:27:46,683  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-27-27\DiscoC\java-libs
+2020-03-17 17:27:46,684  INFO - 
+2020-03-17 17:27:46,684  INFO - Copiando pastas...
+2020-03-17 17:27:55,148  INFO - ================================
+2020-03-17 17:27:55,148  INFO - Procurando Perfis de Usuários...
+2020-03-17 17:27:55,149  INFO - ================================
+2020-03-17 17:27:55,162  INFO - Verificando: 554033
+2020-03-17 17:27:55,247  INFO - Tamanho: 2,7 MB
+2020-03-17 17:27:55,248  INFO - Aprovado para fazer backup.
+2020-03-17 17:27:55,248  INFO - 
+2020-03-17 17:27:55,248  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,249  INFO - 
+2020-03-17 17:27:55,249  INFO - Verificando: 554228
+2020-03-17 17:27:55,250  INFO - Tamanho: 0 B
+2020-03-17 17:27:55,250  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,250  INFO - 
+2020-03-17 17:27:55,251  INFO - Verificando: Administrador
+2020-03-17 17:27:55,251  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,251  INFO - 
+2020-03-17 17:27:55,252  INFO - Verificando: All Users
+2020-03-17 17:27:55,253  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,254  INFO - 
+2020-03-17 17:27:55,254  INFO - Verificando: Default
+2020-03-17 17:27:55,254  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,255  INFO - 
+2020-03-17 17:27:55,256  INFO - Verificando: Default User
+2020-03-17 17:27:55,257  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,257  INFO - 
+2020-03-17 17:27:55,257  INFO - Verificando: Lactalis
+2020-03-17 17:27:55,258  INFO - Tamanho: 0 B
+2020-03-17 17:27:55,258  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,259  INFO - 
+2020-03-17 17:27:55,259  INFO - Verificando: Public
+2020-03-17 17:27:55,259  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,261  INFO - 
+2020-03-17 17:27:55,262  INFO - Verificando: t00591
+2020-03-17 17:27:55,262  INFO - Tamanho: 0 B
+2020-03-17 17:27:55,263  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,263  INFO - 
+2020-03-17 17:27:55,264  INFO - Verificando: t04693
+2020-03-17 17:27:55,264  INFO - Tamanho: 0 B
+2020-03-17 17:27:55,264  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,265  INFO - 
+2020-03-17 17:27:55,265  INFO - Verificando: t05147
+2020-03-17 17:27:55,265  INFO - Tamanho: 0 B
+2020-03-17 17:27:55,266  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,266  INFO - 
+2020-03-17 17:27:55,267  INFO - Verificando: t05355
+2020-03-17 17:27:55,267  INFO - Tamanho: 0 B
+2020-03-17 17:27:55,268  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,268  INFO - 
+2020-03-17 17:27:55,269  INFO - Verificando: t05799
+2020-03-17 17:27:55,269  INFO - Tamanho: 0 B
+2020-03-17 17:27:55,269  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:27:55,270  INFO - 
+2020-03-17 17:27:55,270  INFO - Verificando: t05807
+2020-03-17 17:28:11,006  INFO - Tamanho: 52,7 GB
+2020-03-17 17:28:11,007  INFO - Aprovado para fazer backup.
+2020-03-17 17:28:11,007  INFO - 
+2020-03-17 17:28:11,008  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:11,008  INFO - 
+2020-03-17 17:28:11,009  INFO - Verificando: t05817
+2020-03-17 17:28:11,009  INFO - Tamanho: 0 B
+2020-03-17 17:28:11,009  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:11,010  INFO - 
+2020-03-17 17:28:11,010  INFO - Verificando: Todos os Usuários
+2020-03-17 17:28:11,010  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:11,010  INFO - 
+2020-03-17 17:28:11,010  INFO - Verificando: Usuário Padrão
+2020-03-17 17:28:11,012  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:11,012  INFO - 
+2020-03-17 17:28:11,125  INFO - Copiando bookmarks...
+2020-03-17 17:28:11,206  INFO - Bookmarks salvo.
+2020-03-17 17:28:11,206  INFO - Não arquivo Outlook para salvar! 
+C:\Users\554033\AppData\Local\Microsoft\Outlook
+2020-03-17 17:28:11,207  INFO - Não arquivo Outlook para salvar! 
+C:\Users\554033\AppData\Roaming\Microsoft\Outlook
+2020-03-17 17:28:11,211  INFO - Copiando pastas...
+2020-03-17 17:28:11,538  INFO - Copiando bookmarks...
+2020-03-17 17:28:11,572  INFO - Bookmarks salvo.
+2020-03-17 17:28:11,573  INFO - Copiando \Local\Microsoft\Outlook...
+2020-03-17 17:28:30,193  INFO - Log inicializado.
+2020-03-17 17:28:30,195  INFO - =================
+2020-03-17 17:28:30,196  INFO - Criando diretório...
+2020-03-17 17:28:31,112  INFO - Diretório criado em C:\ BACKUPFIELDPC_17_03_2020 17-28-21
+2020-03-17 17:28:31,116  INFO - ==============================
+2020-03-17 17:28:31,116  INFO - Verificando Disco Local (C:)..
+2020-03-17 17:28:31,117  INFO - ==============================
+2020-03-17 17:28:31,174  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-27-27
+2020-03-17 17:28:31,418  INFO - Tamanho: 463,6 MB
+2020-03-17 17:28:31,435  INFO - Aprovado para fazer backup.
+2020-03-17 17:28:31,436  INFO - 
+2020-03-17 17:28:31,437  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,437  INFO - 
+2020-03-17 17:28:31,437  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-28-21
+2020-03-17 17:28:31,438  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,439  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,439  INFO - 
+2020-03-17 17:28:31,439  INFO - Verificando: $Recycle.Bin
+2020-03-17 17:28:31,440  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,440  INFO - 
+2020-03-17 17:28:31,441  INFO - Verificando: $WINDOWS.~BT
+2020-03-17 17:28:31,441  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,442  INFO - 
+2020-03-17 17:28:31,442  INFO - Verificando: $Windows.~WS
+2020-03-17 17:28:31,443  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,443  INFO - 
+2020-03-17 17:28:31,444  INFO - Verificando: 554033
+2020-03-17 17:28:31,450  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,451  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,451  INFO - 
+2020-03-17 17:28:31,452  INFO - Verificando: Arquivos de Programas
+2020-03-17 17:28:31,453  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,453  INFO - 
+2020-03-17 17:28:31,454  INFO - Verificando: BgInfo
+2020-03-17 17:28:31,456  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,457  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,457  INFO - 
+2020-03-17 17:28:31,458  INFO - Verificando: Dados
+2020-03-17 17:28:31,459  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,460  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,460  INFO - 
+2020-03-17 17:28:31,461  INFO - Verificando: DameWare
+2020-03-17 17:28:31,470  INFO - Tamanho: 164,0 MB
+2020-03-17 17:28:31,471  INFO - Aprovado para fazer backup.
+2020-03-17 17:28:31,471  INFO - 
+2020-03-17 17:28:31,474  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,474  INFO - 
+2020-03-17 17:28:31,476  INFO - Verificando: Dell
+2020-03-17 17:28:31,477  INFO - Tamanho: 132,2 MB
+2020-03-17 17:28:31,479  INFO - Aprovado para fazer backup.
+2020-03-17 17:28:31,482  INFO - 
+2020-03-17 17:28:31,484  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,485  INFO - 
+2020-03-17 17:28:31,488  INFO - Verificando: Documents and Settings
+2020-03-17 17:28:31,489  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,489  INFO - 
+2020-03-17 17:28:31,490  INFO - Verificando: Drivers
+2020-03-17 17:28:31,492  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,494  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,495  INFO - 
+2020-03-17 17:28:31,496  INFO - Verificando: ESD
+2020-03-17 17:28:31,496  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,497  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,497  INFO - 
+2020-03-17 17:28:31,497  INFO - Verificando: FastCopy
+2020-03-17 17:28:31,498  INFO - Tamanho: 91,2 kB
+2020-03-17 17:28:31,499  INFO - Aprovado para fazer backup.
+2020-03-17 17:28:31,499  INFO - 
+2020-03-17 17:28:31,499  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,500  INFO - 
+2020-03-17 17:28:31,500  INFO - Verificando: Insomnia
+2020-03-17 17:28:31,503  INFO - Tamanho: 702,5 kB
+2020-03-17 17:28:31,505  INFO - Aprovado para fazer backup.
+2020-03-17 17:28:31,506  INFO - 
+2020-03-17 17:28:31,506  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,507  INFO - 
+2020-03-17 17:28:31,507  INFO - Verificando: Intel
+2020-03-17 17:28:31,508  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,508  INFO - 
+2020-03-17 17:28:31,508  INFO - Verificando: java-libs
+2020-03-17 17:28:31,527  INFO - Tamanho: 86,9 MB
+2020-03-17 17:28:31,528  INFO - Aprovado para fazer backup.
+2020-03-17 17:28:31,528  INFO - 
+2020-03-17 17:28:31,544  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,548  INFO - 
+2020-03-17 17:28:31,549  INFO - Verificando: OneDriveTemp
+2020-03-17 17:28:31,550  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,550  INFO - 
+2020-03-17 17:28:31,551  INFO - Verificando: PerfLogs
+2020-03-17 17:28:31,551  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,553  INFO - 
+2020-03-17 17:28:31,554  INFO - Verificando: Program Files
+2020-03-17 17:28:31,555  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,555  INFO - 
+2020-03-17 17:28:31,555  INFO - Verificando: Program Files (x86)
+2020-03-17 17:28:31,556  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,556  INFO - 
+2020-03-17 17:28:31,557  INFO - Verificando: ProgramData
+2020-03-17 17:28:31,558  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,560  INFO - 
+2020-03-17 17:28:31,561  INFO - Verificando: Recovery
+2020-03-17 17:28:31,562  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,565  INFO - 
+2020-03-17 17:28:31,566  INFO - Verificando: SQLServer2017Media
+2020-03-17 17:28:31,567  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,568  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,569  INFO - 
+2020-03-17 17:28:31,569  INFO - Verificando: System Volume Information
+2020-03-17 17:28:31,570  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,571  INFO - 
+2020-03-17 17:28:31,571  INFO - Verificando: Tassia
+2020-03-17 17:28:31,572  INFO - Tamanho: 0 B
+2020-03-17 17:28:31,572  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,573  INFO - 
+2020-03-17 17:28:31,573  INFO - Verificando: Users
+2020-03-17 17:28:31,574  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,577  INFO - 
+2020-03-17 17:28:31,577  INFO - Verificando: Windows
+2020-03-17 17:28:31,578  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:28:31,579  INFO - 
+2020-03-17 17:28:31,580  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-28-21\DiscoC\ BACKUPFIELDPC_17_03_2020 17-27-27
+2020-03-17 17:28:31,580  INFO - 
+2020-03-17 17:28:31,587  INFO - Copiando pastas...
+2020-03-17 17:29:11,382  INFO - Log inicializado.
+2020-03-17 17:29:11,384  INFO - =================
+2020-03-17 17:29:11,384  INFO - Criando diretório...
+2020-03-17 17:29:12,494  INFO - Diretório criado em C:\ BACKUPFIELDPC_17_03_2020 17-29-01
+2020-03-17 17:29:12,499  INFO - ==============================
+2020-03-17 17:29:12,499  INFO - Verificando Disco Local (C:)..
+2020-03-17 17:29:12,500  INFO - ==============================
+2020-03-17 17:29:12,617  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-27-27
+2020-03-17 17:29:12,776  INFO - Tamanho: 463,6 MB
+2020-03-17 17:29:12,777  INFO - Aprovado para fazer backup.
+2020-03-17 17:29:12,778  INFO - 
+2020-03-17 17:29:12,778  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,779  INFO - 
+2020-03-17 17:29:12,780  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-28-21
+2020-03-17 17:29:12,902  INFO - Tamanho: 365,7 MB
+2020-03-17 17:29:12,903  INFO - Aprovado para fazer backup.
+2020-03-17 17:29:12,904  INFO - 
+2020-03-17 17:29:12,904  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,905  INFO - 
+2020-03-17 17:29:12,905  INFO - Verificando:  BACKUPFIELDPC_17_03_2020 17-29-01
+2020-03-17 17:29:12,906  INFO - Tamanho: 0 B
+2020-03-17 17:29:12,907  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,907  INFO - 
+2020-03-17 17:29:12,907  INFO - Verificando: $Recycle.Bin
+2020-03-17 17:29:12,908  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,909  INFO - 
+2020-03-17 17:29:12,910  INFO - Verificando: $WINDOWS.~BT
+2020-03-17 17:29:12,910  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,911  INFO - 
+2020-03-17 17:29:12,913  INFO - Verificando: $Windows.~WS
+2020-03-17 17:29:12,913  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,914  INFO - 
+2020-03-17 17:29:12,914  INFO - Verificando: 554033
+2020-03-17 17:29:12,915  INFO - Tamanho: 0 B
+2020-03-17 17:29:12,916  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,917  INFO - 
+2020-03-17 17:29:12,919  INFO - Verificando: Arquivos de Programas
+2020-03-17 17:29:12,920  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,921  INFO - 
+2020-03-17 17:29:12,921  INFO - Verificando: BgInfo
+2020-03-17 17:29:12,923  INFO - Tamanho: 0 B
+2020-03-17 17:29:12,923  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,924  INFO - 
+2020-03-17 17:29:12,924  INFO - Verificando: Dados
+2020-03-17 17:29:12,925  INFO - Tamanho: 0 B
+2020-03-17 17:29:12,927  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,929  INFO - 
+2020-03-17 17:29:12,929  INFO - Verificando: DameWare
+2020-03-17 17:29:12,935  INFO - Tamanho: 164,0 MB
+2020-03-17 17:29:12,936  INFO - Aprovado para fazer backup.
+2020-03-17 17:29:12,937  INFO - 
+2020-03-17 17:29:12,937  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,938  INFO - 
+2020-03-17 17:29:12,939  INFO - Verificando: Dell
+2020-03-17 17:29:12,948  INFO - Tamanho: 132,2 MB
+2020-03-17 17:29:12,951  INFO - Aprovado para fazer backup.
+2020-03-17 17:29:12,952  INFO - 
+2020-03-17 17:29:12,953  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,960  INFO - 
+2020-03-17 17:29:12,960  INFO - Verificando: Documents and Settings
+2020-03-17 17:29:12,961  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,961  INFO - 
+2020-03-17 17:29:12,962  INFO - Verificando: Drivers
+2020-03-17 17:29:12,962  INFO - Tamanho: 0 B
+2020-03-17 17:29:12,963  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,964  INFO - 
+2020-03-17 17:29:12,964  INFO - Verificando: ESD
+2020-03-17 17:29:12,965  INFO - Tamanho: 0 B
+2020-03-17 17:29:12,966  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,972  INFO - 
+2020-03-17 17:29:12,972  INFO - Verificando: FastCopy
+2020-03-17 17:29:12,974  INFO - Tamanho: 91,2 kB
+2020-03-17 17:29:12,975  INFO - Aprovado para fazer backup.
+2020-03-17 17:29:12,975  INFO - 
+2020-03-17 17:29:12,976  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,976  INFO - 
+2020-03-17 17:29:12,977  INFO - Verificando: Insomnia
+2020-03-17 17:29:12,989  INFO - Tamanho: 702,5 kB
+2020-03-17 17:29:12,990  INFO - Aprovado para fazer backup.
+2020-03-17 17:29:12,990  INFO - 
+2020-03-17 17:29:12,992  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,995  INFO - 
+2020-03-17 17:29:12,996  INFO - Verificando: Intel
+2020-03-17 17:29:12,996  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:12,997  INFO - 
+2020-03-17 17:29:12,997  INFO - Verificando: java-libs
+2020-03-17 17:29:13,044  INFO - Tamanho: 86,9 MB
+2020-03-17 17:29:13,045  INFO - Aprovado para fazer backup.
+2020-03-17 17:29:13,046  INFO - 
+2020-03-17 17:29:13,046  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,046  INFO - 
+2020-03-17 17:29:13,047  INFO - Verificando: OneDriveTemp
+2020-03-17 17:29:13,047  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,048  INFO - 
+2020-03-17 17:29:13,048  INFO - Verificando: PerfLogs
+2020-03-17 17:29:13,050  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,050  INFO - 
+2020-03-17 17:29:13,051  INFO - Verificando: Program Files
+2020-03-17 17:29:13,051  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,052  INFO - 
+2020-03-17 17:29:13,053  INFO - Verificando: Program Files (x86)
+2020-03-17 17:29:13,053  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,054  INFO - 
+2020-03-17 17:29:13,054  INFO - Verificando: ProgramData
+2020-03-17 17:29:13,055  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,055  INFO - 
+2020-03-17 17:29:13,056  INFO - Verificando: Recovery
+2020-03-17 17:29:13,056  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,056  INFO - 
+2020-03-17 17:29:13,057  INFO - Verificando: SQLServer2017Media
+2020-03-17 17:29:13,057  INFO - Tamanho: 0 B
+2020-03-17 17:29:13,058  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,059  INFO - 
+2020-03-17 17:29:13,060  INFO - Verificando: System Volume Information
+2020-03-17 17:29:13,061  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,061  INFO - 
+2020-03-17 17:29:13,062  INFO - Verificando: Tassia
+2020-03-17 17:29:13,062  INFO - Tamanho: 0 B
+2020-03-17 17:29:13,063  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,065  INFO - 
+2020-03-17 17:29:13,067  INFO - Verificando: Users
+2020-03-17 17:29:13,067  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,069  INFO - 
+2020-03-17 17:29:13,070  INFO - Verificando: Windows
+2020-03-17 17:29:13,072  INFO - Não está aprovado para fazer backup.
+2020-03-17 17:29:13,072  INFO - 
+2020-03-17 17:29:13,073  INFO - Pasta criada em: 
+C:\ BACKUPFIELDPC_17_03_2020 17-29-01\DiscoC\ BACKUPFIELDPC_17_03_2020 17-27-27
+2020-03-17 17:29:13,073  INFO - 
+2020-03-17 17:29:13,074  INFO - Copiando pastas...
